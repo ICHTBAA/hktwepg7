@@ -1,0 +1,45 @@
+#EXTM3U
+#EXTINF:0 type="stream", 彩虹電影
+rtmp://118.163.221.79:1936/live/RainbowE
+#EXTINF:0 type="stream", 櫻桃
+rtmp://202.39.64.234:1937/live/947
+#EXTINF:0 type="stream", 松視2台
+https://flv3948069e.live.126.net/live/sytv_56830b3d6e8464f8479dde69be773622.flv
+#EXTINF:0 type="stream", 松視3台
+https://flv3948069e.live.126.net/live/sytv_ca330b8dfe8461e4b3bdde39ce773e83.flv
+#EXTINF:0 type="stream", 潘朵啦高畫質玩美台
+https://flv3948069e.live.126.net/live/sytv_30630b464e846ca2cb9ddefe0e773e87.flv
+#EXTINF:0 type="stream", EXTASY HD
+http://213.81.133.133:8080/extasy4k/index.m3u8
+#EXTINF:0 type="stream", AST TV 1
+https://www.ast.tv/stream/1/master.m3u8
+#EXTINF:0 type="stream", AST TV 2
+https://www.ast.tv/stream/2/master.m3u8
+#EXTINF:0 type="stream", X
+http://ott3.alwaysdata.net/live/udp.php?id=1
+#EXTINF:0 type="stream", Private TV HD
+http://ott3.alwaysdata.net/live/udp.php?id=2
+#EXTINF:0 type="stream", Redlight
+http://ott3.alwaysdata.net/live/udp.php?id=3
+#EXTINF:0 type="stream", Hustler
+http://ott3.alwaysdata.net/live/udp.php?id=4
+#EXTINF:0 type="stream", Vivid Red
+http://ott3.alwaysdata.net/live/udp.php?id=5
+#EXTINF:0 type="stream", XXL
+http://ott3.alwaysdata.net/live/udp.php?id=6
+#EXTINF:0 type="stream", SG
+http://ott3.alwaysdata.net/live/lv.php?id=11
+#EXTINF:0 type="stream", FEMJOY
+http://ott3.alwaysdata.net/live/lv.php?id=12
+#EXTINF:0 type="stream", MYLF
+http://ott3.alwaysdata.net/live/lv.php?id=16
+#EXTINF:0 type="stream", DDF
+http://ott3.alwaysdata.net/live/lv.php?id=17
+#EXTINF:0 type="stream", HARDX
+http://ott3.alwaysdata.net/live/lv.php?id=18
+#EXTINF:0 type="stream", AdultIPTV
+http://ott3.alwaysdata.net/live/lv.php?id=19
+#EXTINF:0 type="stream", HITZEFRE
+http://ott3.alwaysdata.net/live/lv.php?id=20
+#EXTINF:0 type="stream", erotic
+http://ott3.alwaysdata.net/live/lv.php?id=94
