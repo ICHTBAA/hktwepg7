@@ -36,6 +36,14 @@
     <display-name lang="zh">HBO 強檔鉅獻</display-name>
     <url>http://www.tbc.net.tw</url>
   </channel>
+  <channel id="HBO 原創鉅獻">
+    <display-name lang="zh">HBO 原創鉅獻</display-name>
+    <url>http://www.tbc.net.tw</url>
+  </channel>
+  <channel id="HBO 溫馨家庭">
+    <display-name lang="zh">HBO 溫馨家庭</display-name>
+    <url>http://www.tbc.net.tw</url>
+  </channel>
   <channel id="好萊塢電影台">
     <display-name lang="zh">好萊塢電影台</display-name>
     <url>http://www.tbc.net.tw</url>
@@ -176,13 +184,13 @@
     <title lang="zh">閨蜜愛旅行-第51集</title>
     <desc lang="zh">新旅遊實境節目《閨蜜愛旅行》，女明星隱藏版「閨蜜組合」大公開，除了介紹最私房、最有趣的景點跟玩法，在旅途中考驗彼此的「真情」。除了展示了世界各地的民俗風情樂趣，與其他外景節目最不同的是女孩之間最真實的互動，也是《閨蜜愛旅行》最迷人的地方.(n)</desc>
   </programme>
-  <programme start="20220303170000 +0800" stop="20220303190000 +0800" channel="亞洲旅遊台">
+  <programme start="20220303170000 +0800" stop="20220303180000 +0800" channel="亞洲旅遊台">
     <title lang="zh">王子的移動城堡 II-第1集</title>
     <desc lang="zh">第一季錦榮帶著觀眾開著家去旅行 !以德國為起點到北海道，再回到王子家鄉紐西蘭，我們一起體驗了大自然的神奇之美。第二季裡，除露營車外，我們加入了更多的移動元素，節目中特別請來新的搭檔Akemi， 從柬埔寨拉開冒險旅程的序幕，騎乘摩托車穿梭在城市中，再到澳洲來趟史詩般的公路旅行，最後來到擁有「世界最美火車線路」的國度斯里蘭卡，體驗最美的海上火車之旅。讓我們跟著錦榮和Akemi來趟全新的旅遊探險.(n)</desc>
   </programme>
-  <programme start="20220303190000 +0800" stop="20220303200000 +0800" channel="亞洲旅遊台">
-    <title lang="zh">好人生會社-第95集</title>
-    <desc lang="zh">由資深媒體人張雅芳主持的「好人生會社」，以「健康、樂活」為主旨，透過專家深入淺出的解說，名嘴藝人經驗分享，還有生活達人經驗妙方，替觀眾帶來「醫療保健」、「消費新知」、「時尚保養」及「樂活潮流」的最新資訊.(n)</desc>
+  <programme start="20220303180000 +0800" stop="20220303200000 +0800" channel="亞洲旅遊台">
+    <title lang="zh">型男闖世界II-第1集</title>
+    <desc lang="zh">有鑑於型男闖世界第一季頗受好評的經驗，這回第二季城市型男-羅平，將帶領觀眾，從歐洲玩到中東，從中東玩回亞洲，一路透過型男羅平的個人魅力，輔以主題故事從城市走入鄉鎮，為觀眾開闢多條不同風格的旅遊路線，現在羅平即將撕開那城市人的袈裟，開始那令人臉紅心跳的，足以讓女孩們瘋狂的世界之旅.(n)</desc>
   </programme>
   <programme start="20220303200000 +0800" stop="20220303210000 +0800" channel="亞洲旅遊台">
     <title lang="zh">嗨!LET S GO II-第11集</title>
@@ -952,17 +960,17 @@
     <title lang="zh">航海王第18季-第858集</title>
     <desc lang="zh">曾經擁有全世界財寶的海賊王黃金．羅傑，留下了一個大寶藏而過世了。全世界的海盜都爭相尋找這個被稱為ONE PIECE「一個大密寶」的神秘寶藏。魯夫是一位立志成為海賊王的男孩子，他也想找到這個大寶藏，勇敢的他擁有特殊的橡皮般的身體，對付其他海盜所向無敵。他找了幾位夥伴一起去尋找寶藏，一起同心協力開始在海上冒險，朝著「偉大的航道前進」，去尋找傳說中的「一個大密寶」.(n)</desc>
   </programme>
-  <programme start="20220303173000 +0800" stop="20220303183000 +0800" channel="衛視中文台">
+  <programme start="20220303173000 +0800" stop="20220303180000 +0800" channel="衛視中文台">
     <title lang="zh">烏龍派出所第1季-第26集</title>
     <desc lang="zh">在東京的葛飾區有一個龜有公園，公園前有一個小派出所，那裡是小警察兩津勘吉和他的同事工作的地方。勘及個子不高，身材粗壯，心地善良，不畏冒險，急性子，有著廣泛的興趣和嗜好，最重要的是他有著很容易捲入各種麻煩的”執著”，這令他的上司及同事大為頭疼.(n)</desc>
   </programme>
-  <programme start="20220303183000 +0800" stop="20220303190000 +0800" channel="衛視中文台">
+  <programme start="20220303180000 +0800" stop="20220303183000 +0800" channel="衛視中文台">
+    <title lang="zh">航海王第18季-第859集</title>
+    <desc lang="zh">曾經擁有全世界財寶的海賊王黃金．羅傑，留下了一個大寶藏而過世了。全世界的海盜都爭相尋找這個被稱為ONE PIECE「一個大密寶」的神秘寶藏。魯夫是一位立志成為海賊王的男孩子，他也想找到這個大寶藏，勇敢的他擁有特殊的橡皮般的身體，對付其他海盜所向無敵。他找了幾位夥伴一起去尋找寶藏，一起同心協力開始在海上冒險，朝著「偉大的航道前進」，去尋找傳說中的「一個大密寶」.(n)</desc>
+  </programme>
+  <programme start="20220303183000 +0800" stop="20220303200000 +0800" channel="衛視中文台">
     <title lang="zh">烏龍派出所第1季-第27集</title>
     <desc lang="zh">在東京的葛飾區有一個龜有公園，公園前有一個小派出所，那裡是小警察兩津勘吉和他的同事工作的地方。勘及個子不高，身材粗壯，心地善良，不畏冒險，急性子，有著廣泛的興趣和嗜好，最重要的是他有著很容易捲入各種麻煩的”執著”，這令他的上司及同事大為頭疼.(n)</desc>
-  </programme>
-  <programme start="20220303190000 +0800" stop="20220303200000 +0800" channel="衛視中文台">
-    <title lang="zh">歡樂智多星-第2060集</title>
-    <desc lang="zh">只要在資格賽當中挑戰成功，就有機會參加獎金挑戰賽，連續答對5題，押注成功，就有機會拿30萬元獎金！不只靠運氣、靠體力更要靠腦力.(n)</desc>
   </programme>
   <programme start="20220303200000 +0800" stop="20220303210000 +0800" channel="衛視中文台">
     <title lang="zh">我和我的鋼四壁-第3集</title>
@@ -1836,13 +1844,13 @@
     <title lang="zh">韓星變身改造</title>
     <desc lang="zh">Before &amp; after系列來囉！明星出道時的青澀，到現在帥氣秀麗的模樣，來看看韓國當紅明星們，在經歷了歲月後，是否還能保持年輕.(n)</desc>
   </programme>
-  <programme start="20220303173000 +0800" stop="20220303190000 +0800" channel="韓國娛樂台KMTV">
+  <programme start="20220303173000 +0800" stop="20220303180000 +0800" channel="韓國娛樂台KMTV">
     <title lang="zh">潛力韓星事件簿</title>
     <desc lang="zh">一團還有一團團！在競爭激烈、韓團輩出的時代中，你知道的或許只是冰山一角，身為韓國通的你怎麼可以錯過！快來翻開事件簿，看看這些被低估的未來大勢團體到底身懷何種絕技吧.(n)</desc>
   </programme>
-  <programme start="20220303190000 +0800" stop="20220303200000 +0800" channel="韓國娛樂台KMTV">
-    <title lang="zh">韓國娛樂週刊</title>
-    <desc lang="zh">每週收看《娛樂週刊》得知K-Pop明星最新動態！不要錯過明星專訪、演唱會的資訊、以及欣賞最新鮮的音樂短片.(n)</desc>
+  <programme start="20220303180000 +0800" stop="20220303200000 +0800" channel="韓國娛樂台KMTV">
+    <title lang="zh">美食之路</title>
+    <desc lang="zh">您好其真正的美食餐廳在哪里嗎? 讓《美食之路》給你找出在大韓民國的美食餐廳吧! 在各個的餐廳裏我們會選和找出最好的美食餐廳! 跟著美食傳奇和女神主持人: 鄭埻夏, 樸智允到韓國各地上個美食旅行.(n)</desc>
   </programme>
   <programme start="20220303200000 +0800" stop="20220303203000 +0800" channel="韓國娛樂台KMTV">
     <title lang="zh">短影音大挑戰</title>
@@ -2724,17 +2732,17 @@
     <title lang="zh">CHANGE-第3集</title>
     <desc lang="zh">由木村拓哉主演。對政治毫無興趣的小學老師朝倉（木村拓哉）因某個原因被迫當上議員，甚至坐上總理大位。雖然老奸巨猾的政客們總把他耍得團團轉，但他依然保有庶民的感覺，並與同樣想讓日本更好的人們一起奮鬥。一個會煩惱，會遲疑，也會熱戀的日本總理就此誕生！這是一齣以理想的總理為主角，透過活潑又寫實的筆法描寫政界的頂級官場喜劇.(n)</desc>
   </programme>
-  <programme start="20220303170000 +0800" stop="20220303183000 +0800" channel="WAKUWAKU JAPAN">
+  <programme start="20220303170000 +0800" stop="20220303180000 +0800" channel="WAKUWAKU JAPAN">
     <title lang="zh">CHANGE-第4集</title>
     <desc lang="zh">由木村拓哉主演。對政治毫無興趣的小學老師朝倉（木村拓哉）因某個原因被迫當上議員，甚至坐上總理大位。雖然老奸巨猾的政客們總把他耍得團團轉，但他依然保有庶民的感覺，並與同樣想讓日本更好的人們一起奮鬥。一個會煩惱，會遲疑，也會熱戀的日本總理就此誕生！這是一齣以理想的總理為主角，透過活潑又寫實的筆法描寫政界的頂級官場喜劇.(n)</desc>
   </programme>
-  <programme start="20220303183000 +0800" stop="20220303190000 +0800" channel="WAKUWAKU JAPAN">
-    <title lang="zh">享受日本美食，旅遊，文化吧-第346集</title>
+  <programme start="20220303180000 +0800" stop="20220303183000 +0800" channel="WAKUWAKU JAPAN">
+    <title lang="zh">享受日本美食，旅遊，文化吧-第484集</title>
     <desc lang="zh">節目將介紹當地的特色絕品美食、四季美景以及傳統慶典等，僅能在日本當地才可體驗的豐富魅力！您所不知道的日本由我們來為您發掘！.(n)</desc>
   </programme>
-  <programme start="20220303190000 +0800" stop="20220303200000 +0800" channel="WAKUWAKU JAPAN">
-    <title lang="zh">超級全能住宅改造王-第3集</title>
-    <desc lang="zh">日本家庭的生活即將被大改造！在本節目中，來自各領域的頂尖專家們將聯手加入住家改造，不僅要改善住宅美學，也要修復家庭間的親密關係.(n)</desc>
+  <programme start="20220303183000 +0800" stop="20220303200000 +0800" channel="WAKUWAKU JAPAN">
+    <title lang="zh">享受日本美食，旅遊，文化吧-第346集</title>
+    <desc lang="zh">節目將介紹當地的特色絕品美食、四季美景以及傳統慶典等，僅能在日本當地才可體驗的豐富魅力！您所不知道的日本由我們來為您發掘！.(n)</desc>
   </programme>
   <programme start="20220303200000 +0800" stop="20220303210000 +0800" channel="WAKUWAKU JAPAN">
     <title lang="zh">只有30%的人知道!小常識大優越-第84集</title>
@@ -3736,17 +3744,17 @@
     <title lang="zh">Pop in！Craft</title>
     <desc lang="zh">Pop in！Craft.(n)</desc>
   </programme>
-  <programme start="20220303175600 +0800" stop="20220303183000 +0800" channel="NHK">
+  <programme start="20220303175600 +0800" stop="20220303180000 +0800" channel="NHK">
     <title lang="zh">世界天氣</title>
     <desc lang="zh">世界天氣.(n)</desc>
   </programme>
-  <programme start="20220303183000 +0800" stop="20220303185700 +0800" channel="NHK">
+  <programme start="20220303180000 +0800" stop="20220303183000 +0800" channel="NHK">
+    <title lang="zh">六點新聞</title>
+    <desc lang="zh">日本NHK電視台即時新聞播報.(n)</desc>
+  </programme>
+  <programme start="20220303183000 +0800" stop="20220303194200 +0800" channel="NHK">
     <title lang="zh">所桑！不得了</title>
     <desc lang="zh">所桑！不得了.(n)</desc>
-  </programme>
-  <programme start="20220303185700 +0800" stop="20220303194200 +0800" channel="NHK">
-    <title lang="zh">日本姓氏綜藝</title>
-    <desc lang="zh">日本姓氏綜藝.(n)</desc>
   </programme>
   <programme start="20220303194200 +0800" stop="20220303194500 +0800" channel="NHK">
     <title lang="zh">迷你節目</title>
@@ -7696,6 +7704,1514 @@
     <title lang="zh">特種部隊2-正面對決</title>
     <desc lang="zh">G.I. Joes特種部隊的成員被誣陷犯下自己沒犯過的恐怖罪行，如今到了必須反擊的時候了.(n)</desc>
   </programme>
+  <programme start="20220303012500 +0800" stop="20220303031500 +0800" channel="HBO 原創鉅獻">
+    <title lang="zh">300壯士-斯巴達的逆襲</title>
+    <desc lang="zh">本片根據法蘭克米勒漫畫小說改編，敘述在西元前四百八十年，斯巴達國王率領三百名菁英對抗入侵的波斯軍隊，以寡擊眾的磅礡故事.(n)</desc>
+  </programme>
+  <programme start="20220303031500 +0800" stop="20220303051500 +0800" channel="HBO 原創鉅獻">
+    <title lang="zh">康斯坦汀-驅魔神探</title>
+    <desc lang="zh">跟隨基諾李維與金球獎得主瑞秋懷茲進入天使與惡魔的世界，聯手調查瑞秋懷茲雙胞胎妹妹離奇的自殺案件.(n)</desc>
+  </programme>
+  <programme start="20220303051500 +0800" stop="20220303070500 +0800" channel="HBO 原創鉅獻">
+    <title lang="zh">星星的孩子</title>
+    <desc lang="zh">本片改編自真人真事.劇中人物譚波博士自小被歸類為高功能亞斯伯格症患者,成長和求學過程中飽受不少歧視，幸好在親友不離不棄鼓勵下，憑著自己能理解動物語言的專長成為畜牧業權威.(n)</desc>
+  </programme>
+  <programme start="20220303070500 +0800" stop="20220303091500 +0800" channel="HBO 原創鉅獻">
+    <title lang="zh">史泰登島國王</title>
+    <desc lang="zh">自從消防員父親過世後，史考特就一直停滯不前。他整天抽大麻，做著成為刺青藝術家的白日夢，直到一連串事件迫使他面對傷痛，重新向前邁進.(n)</desc>
+  </programme>
+  <programme start="20220303091500 +0800" stop="20220303094000 +0800" channel="HBO 原創鉅獻">
+    <title lang="zh">好萊塢好好看-第950集</title>
+    <desc lang="zh">好萊塢好好看.(n)</desc>
+  </programme>
+  <programme start="20220303094000 +0800" stop="20220303114500 +0800" channel="HBO 原創鉅獻">
+    <title lang="zh">大賣空</title>
+    <desc lang="zh">四個局外人眼見金融危機即將發生而策畫的大賣空計畫，讓他們陷入了一切都不可靠的現代金融體系的深淵.(n)</desc>
+  </programme>
+  <programme start="20220303114500 +0800" stop="20220303124500 +0800" channel="HBO 原創鉅獻">
+    <title lang="zh">鍍金年代第1季-第6集</title>
+    <desc lang="zh">1882年身無分文的瑪麗安搬到紐約市與繼承大筆遺產的姑姑同住，因此捲入她們和殘酷的富有鄰居之間的社交戰爭.(n)</desc>
+  </programme>
+  <programme start="20220303124500 +0800" stop="20220303151500 +0800" channel="HBO 原創鉅獻">
+    <title lang="zh">殺戮時刻</title>
+    <desc lang="zh">年輕有理想的新手律師登上法庭為正義奮戰，而這起謀殺案很可能將引爆小鎮的種族衝突.(n)</desc>
+  </programme>
+  <programme start="20220303151500 +0800" stop="20220303170000 +0800" channel="HBO 原創鉅獻">
+    <title lang="zh">給茱麗葉的信</title>
+    <desc lang="zh">美國女孩蘇菲到義大利旅行，在小說中維諾納小鎮的茱麗葉之家，原本應由「茱麗葉秘書」回覆的大量信件中，發現一封未被注意到的「給茱麗葉的信」，因而展開尋找信中戀人的旅程.(n)</desc>
+  </programme>
+  <programme start="20220303170000 +0800" stop="20220303202500 +0800" channel="HBO 原創鉅獻">
+    <title lang="zh">外星人</title>
+    <desc lang="zh">在這部由史蒂芬史匹柏執導的一九八二年經典中，十歲的小男孩艾略特在自家後院發現一個奇怪生物，於是一段感人的友情就此展開。珠兒芭莉摩於此片出露頭角.(n)</desc>
+  </programme>
+  <programme start="20220303202500 +0800" stop="20220303220000 +0800" channel="HBO 原創鉅獻">
+    <title lang="zh">午夜密令</title>
+    <desc lang="zh">二次世界大戰開始前不久，納粹高層的女兒們就讀的寄宿學校有一名教師失蹤，英國特務米勒奉命前來調查，卻也因此陷入危險.(n)</desc>
+  </programme>
+  <programme start="20220303220000 +0800" stop="20220303234500 +0800" channel="HBO 原創鉅獻">
+    <title lang="zh">敦克爾克大行動</title>
+    <desc lang="zh">1940年5月，德軍跨越法國將同盟國軍隊困在敦克爾克海灘上，當地居民受到徵召共同加入救援行動.(n)</desc>
+  </programme>
+  <programme start="20220303234500 +0800" stop="20220303234500 +0800" channel="HBO 原創鉅獻">
+    <title lang="zh">瘋狂麥斯-憤怒道</title>
+    <desc lang="zh">這齣由喬治米勒執導，榮獲奧斯卡獎肯定的”瘋狂麥斯系列電影”的第四部，將公路戰士麥斯洛克坦斯基重新帶回大螢幕.(n)</desc>
+  </programme>
+  <programme start="20220303234500 +0800" stop="20220304014500 +0800" channel="HBO 原創鉅獻">
+    <title lang="zh">瘋狂麥斯-憤怒道</title>
+    <desc lang="zh">這齣由喬治米勒執導，榮獲奧斯卡獎肯定的”瘋狂麥斯系列電影”的第四部，將公路戰士麥斯洛克坦斯基重新帶回大螢幕.(n)</desc>
+  </programme>
+  <programme start="20220304014500 +0800" stop="20220304031500 +0800" channel="HBO 原創鉅獻">
+    <title lang="zh">逃</title>
+    <desc lang="zh">黛安在與世隔絕的環境下獨自拉拔女兒長大，自從女兒出生就控制她的一舉一動，但克蘿伊漸漸發現媽媽的秘密.(n)</desc>
+  </programme>
+  <programme start="20220304031500 +0800" stop="20220304045000 +0800" channel="HBO 原創鉅獻">
+    <title lang="zh">魔咒</title>
+    <desc lang="zh">一名男子墜機在阿帕拉契山後醒來發現自己被困在一個傳統巫毒術師的家中。他得在血月升起前逃離她的控制，才能解救家人.(n)</desc>
+  </programme>
+  <programme start="20220304045000 +0800" stop="20220304064000 +0800" channel="HBO 原創鉅獻">
+    <title lang="zh">我就要你好好的</title>
+    <desc lang="zh">年輕的鄉村女子和因遭受意外而終身癱瘓的富有銀行家似乎沒有任何共通之處，但在這齣令人心碎的愛情故事中，他們互相瞭解並獲得對方永恆的愛.(n)</desc>
+  </programme>
+  <programme start="20220304064000 +0800" stop="20220304070500 +0800" channel="HBO 原創鉅獻">
+    <title lang="zh">好萊塢好好看-第950集</title>
+    <desc lang="zh">好萊塢好好看.(n)</desc>
+  </programme>
+  <programme start="20220304070500 +0800" stop="20220304084000 +0800" channel="HBO 原創鉅獻">
+    <title lang="zh">戀愛學分</title>
+    <desc lang="zh">布萊恩從小就是大學機智問答節目的忠實粉絲，1985年，他如願進了布里斯托大學，加入該校代表隊，愛上了隊員愛麗絲，也結交許多好友.(n)</desc>
+  </programme>
+  <programme start="20220304084000 +0800" stop="20220304102000 +0800" channel="HBO 原創鉅獻">
+    <title lang="zh">不可抗拒</title>
+    <desc lang="zh">本片為喬恩史都華自編自導之喜劇。故事背景在威斯康辛州的小鎮，描述美國民主黨的一名政治顧問，在海軍陸戰隊退役上校參選鎮長時從旁協助.(n)</desc>
+  </programme>
+  <programme start="20220304102000 +0800" stop="20220304120000 +0800" channel="HBO 原創鉅獻">
+    <title lang="zh">一飛沖天</title>
+    <desc lang="zh">高中生霍爾說起話來老是結結巴巴。在他父母協議分居的那一晚，辯論隊隊長班表現失常，讓隊員琴妮失去奪冠的機會。於是琴妮收編霍爾為隊員並展開魔鬼訓練，這時愛苗卻在兩人之間悄悄滋長.(n)</desc>
+  </programme>
+  <programme start="20220304120000 +0800" stop="20220304134500 +0800" channel="HBO 原創鉅獻">
+    <title lang="zh">敦克爾克大行動</title>
+    <desc lang="zh">1940年5月，德軍跨越法國將同盟國軍隊困在敦克爾克海灘上，當地居民受到徵召共同加入救援行動.(n)</desc>
+  </programme>
+  <programme start="20220304134500 +0800" stop="20220304153500 +0800" channel="HBO 原創鉅獻">
+    <title lang="zh">我就要你好好的</title>
+    <desc lang="zh">年輕的鄉村女子和因遭受意外而終身癱瘓的富有銀行家似乎沒有任何共通之處，但在這齣令人心碎的愛情故事中，他們互相瞭解並獲得對方永恆的愛.(n)</desc>
+  </programme>
+  <programme start="20220304153500 +0800" stop="20220304171500 +0800" channel="HBO 原創鉅獻">
+    <title lang="zh">午夜密令</title>
+    <desc lang="zh">二次世界大戰開始前不久，納粹高層的女兒們就讀的寄宿學校有一名教師失蹤，英國特務米勒奉命前來調查，卻也因此陷入危險.(n)</desc>
+  </programme>
+  <programme start="20220304171500 +0800" stop="20220304190000 +0800" channel="HBO 原創鉅獻">
+    <title lang="zh">洛夫羅倫-polo衫打江山</title>
+    <desc lang="zh">關於時尚教主洛夫羅倫的首部紀錄片，片中透露這個創造出時尚界最成功的品牌之一的男子，在偶像光環之下的真實面貌.(n)</desc>
+  </programme>
+  <programme start="20220304190000 +0800" stop="20220304202500 +0800" channel="HBO 原創鉅獻">
+    <title lang="zh">逃</title>
+    <desc lang="zh">黛安在與世隔絕的環境下獨自拉拔女兒長大，自從女兒出生就控制她的一舉一動，但克蘿伊漸漸發現媽媽的秘密.(n)</desc>
+  </programme>
+  <programme start="20220304202500 +0800" stop="20220304220000 +0800" channel="HBO 原創鉅獻">
+    <title lang="zh">醜聞-八卦小報的秘辛</title>
+    <desc lang="zh">這齣紀錄片特別找到《國家詢問報》的相關知情人士，探索這份美國史上最引人爭議的小報的起源和發展過程，以及它為了替龐大的政黨利益護航，而行使的「暗槓」手段.(n)</desc>
+  </programme>
+  <programme start="20220304220000 +0800" stop="20220304220000 +0800" channel="HBO 原創鉅獻">
+    <title lang="zh">鬥陣俱樂部</title>
+    <desc lang="zh">年輕商人結識具有反社會傾向的肥皂銷售員，兩人創立名為鬥陣俱樂部的地下組織，讓成員不受任何限制的互相鬥毆.(n)</desc>
+  </programme>
+  <programme start="20220304220000 +0800" stop="20220305001000 +0800" channel="HBO 原創鉅獻">
+    <title lang="zh">鬥陣俱樂部</title>
+    <desc lang="zh">年輕商人結識具有反社會傾向的肥皂銷售員，兩人創立名為鬥陣俱樂部的地下組織，讓成員不受任何限制的互相鬥毆.(n)</desc>
+  </programme>
+  <programme start="20220305001000 +0800" stop="20220305005000 +0800" channel="HBO 原創鉅獻">
+    <title lang="zh">神祐家族第2季-第9集</title>
+    <desc lang="zh">這齣黑色喜劇影集描寫聞名全世界的福音家族長期在其慈善工作背後的出軌、貪腐的事蹟.(n)</desc>
+  </programme>
+  <programme start="20220305005000 +0800" stop="20220305012000 +0800" channel="HBO 原創鉅獻">
+    <title lang="zh">堪薩斯之歌第1季-第7集</title>
+    <desc lang="zh">珊費盡心力要適應家鄉的環境，唱歌是她唯一的救贖，她藉此發覺自我，並認識一群無法融入卻不放棄努力的邊緣人.(n)</desc>
+  </programme>
+  <programme start="20220305012000 +0800" stop="20220305022000 +0800" channel="HBO 原創鉅獻">
+    <title lang="zh">高校十八禁第2季-第8集</title>
+    <desc lang="zh">本片劇情描寫一群高中生圍繞著毒品、性、創傷以及社群媒體的生活.(n)</desc>
+  </programme>
+  <programme start="20220305022000 +0800" stop="20220305041000 +0800" channel="HBO 原創鉅獻">
+    <title lang="zh">單身媽媽俱樂部</title>
+    <desc lang="zh">五個煩悶的單親媽媽摒除歧見，成立了支援團體，藉由剛發展出的姐妹情誼，獲得啟發和歡笑，並協助彼此克服生活的阻礙.(n)</desc>
+  </programme>
+  <programme start="20220305041000 +0800" stop="20220305062000 +0800" channel="HBO 原創鉅獻">
+    <title lang="zh">魂歸傷膝谷</title>
+    <desc lang="zh">本片以蘇族在小大角之役大勝卡斯達中校為開端，三個角色的獨特觀點相互交織著.(n)</desc>
+  </programme>
+  <programme start="20220305062000 +0800" stop="20220305080000 +0800" channel="HBO 原創鉅獻">
+    <title lang="zh">不可抗拒</title>
+    <desc lang="zh">本片為喬恩史都華自編自導之喜劇。故事背景在威斯康辛州的小鎮，描述美國民主黨的一名政治顧問，在海軍陸戰隊退役上校參選鎮長時從旁協助.(n)</desc>
+  </programme>
+  <programme start="20220305080000 +0800" stop="20220305092000 +0800" channel="HBO 原創鉅獻">
+    <title lang="zh">狗年</title>
+    <desc lang="zh">本片根據暢銷作者強卡茲2003年著作改編而成，敘述年過五十的作家面臨人生存在感危機，他出於衝動養了一隻純種邊境牧羊犬,而這牧羊犬幾乎要徹底毀了他的家!(n)</desc>
+  </programme>
+  <programme start="20220305092000 +0800" stop="20220305105500 +0800" channel="HBO 原創鉅獻">
+    <title lang="zh">醜聞-八卦小報的秘辛</title>
+    <desc lang="zh">這齣紀錄片特別找到《國家詢問報》的相關知情人士，探索這份美國史上最引人爭議的小報的起源和發展過程，以及它為了替龐大的政黨利益護航，而行使的「暗槓」手段.(n)</desc>
+  </programme>
+  <programme start="20220305105500 +0800" stop="20220305122000 +0800" channel="HBO 原創鉅獻">
+    <title lang="zh">布吉闖籃關</title>
+    <desc lang="zh">艾弗雷秦「布吉」（泰勒塔卡哈希飾）這名籃球神童夢想著有天能打進ＮＢＡ殿堂。他必須想辦法平衡父母的壓力、新女友、高中、球場對頭和期望的負擔.(n)</desc>
+  </programme>
+  <programme start="20220305122000 +0800" stop="20220305141000 +0800" channel="HBO 原創鉅獻">
+    <title lang="zh">棒球男孩</title>
+    <desc lang="zh">HBO原創自製電影，描寫來自多明尼加的投手努力奮鬥想進入大聯盟，讓家人脫離貧窮的故事.(n)</desc>
+  </programme>
+  <programme start="20220305141000 +0800" stop="20220305160500 +0800" channel="HBO 原創鉅獻">
+    <title lang="zh">讓他走</title>
+    <desc lang="zh">沈浸在喪子之痛的退休警長帶著妻子動身尋找他們唯一的孫子.(n)</desc>
+  </programme>
+  <programme start="20220305160500 +0800" stop="20220305182000 +0800" channel="HBO 原創鉅獻">
+    <title lang="zh">魂歸傷膝谷</title>
+    <desc lang="zh">本片以蘇族在小大角之役大勝卡斯達中校為開端，三個角色的獨特觀點相互交織著.(n)</desc>
+  </programme>
+  <programme start="20220305182000 +0800" stop="20220305195500 +0800" channel="HBO 原創鉅獻">
+    <title lang="zh">初戀第二回合</title>
+    <desc lang="zh">實境節目主持人娜塔莉在被解僱後，回到家鄉幫忙準備小鎮的情人節年度拍賣會，並在兩個媽媽處心積慮的設計下和前未婚夫重逢.(n)</desc>
+  </programme>
+  <programme start="20220305195500 +0800" stop="20220305220000 +0800" channel="HBO 原創鉅獻">
+    <title lang="zh">艾瑪.</title>
+    <desc lang="zh">聰明美麗又富有的艾瑪伍德豪斯是寧靜小鎮上忙碌的社交女王，她在這個諷刺社會階級與描述成長必經痛苦的華麗故事中，歷經錯點鴛鴦譜與一廂情願的浪漫計劃後，發現真愛一直都在身旁.(n)</desc>
+  </programme>
+  <programme start="20220305220000 +0800" stop="20220305220000 +0800" channel="HBO 原創鉅獻">
+    <title lang="zh">龍紋身的女孩</title>
+    <desc lang="zh">本片改編自同名暢銷小說，並由丹尼爾克雷格和魯妮瑪拉領銜主演.(n)</desc>
+  </programme>
+  <programme start="20220305220000 +0800" stop="20220306003000 +0800" channel="HBO 原創鉅獻">
+    <title lang="zh">龍紋身的女孩</title>
+    <desc lang="zh">本片改編自同名暢銷小說，並由丹尼爾克雷格和魯妮瑪拉領銜主演.(n)</desc>
+  </programme>
+  <programme start="20220306003000 +0800" stop="20220306013000 +0800" channel="HBO 原創鉅獻">
+    <title lang="zh">鍍金年代第1季-第6集</title>
+    <desc lang="zh">1882年身無分文的瑪麗安搬到紐約市與繼承大筆遺產的姑姑同住，因此捲入她們和殘酷的富有鄰居之間的社交戰爭.(n)</desc>
+  </programme>
+  <programme start="20220306013000 +0800" stop="20220306030500 +0800" channel="HBO 原創鉅獻">
+    <title lang="zh">金童星夢</title>
+    <desc lang="zh">本片赤裸地探討娛樂產業童星這門高風險、高報酬的職業。片中詳實記錄孩童在個人和職業上因名氣和失敗付出的代價.(n)</desc>
+  </programme>
+  <programme start="20220306030500 +0800" stop="20220306045000 +0800" channel="HBO 原創鉅獻">
+    <title lang="zh">特攻聯盟2</title>
+    <desc lang="zh">屌爆俠瘋狂的英勇事蹟激起一股變裝英雄的新風潮，卻遭到化身為臭B王的赤霧人的追殺.(n)</desc>
+  </programme>
+  <programme start="20220306045000 +0800" stop="20220306063500 +0800" channel="HBO 原創鉅獻">
+    <title lang="zh">心靈病房</title>
+    <desc lang="zh">這部HBO自製電影是關於一名抗癌女戰士，如何從得知自己罹患癌症開始，到面對生命的省思，以及體驗生命真正意義，一路辛苦走來，經歷許多痛苦，最後勇敢面對死亡.(n)</desc>
+  </programme>
+  <programme start="20220306063500 +0800" stop="20220306082500 +0800" channel="HBO 原創鉅獻">
+    <title lang="zh">讓他走</title>
+    <desc lang="zh">沈浸在喪子之痛的退休警長帶著妻子動身尋找他們唯一的孫子.(n)</desc>
+  </programme>
+  <programme start="20220306082500 +0800" stop="20220306085000 +0800" channel="HBO 原創鉅獻">
+    <title lang="zh">好萊塢好好看-第950集</title>
+    <desc lang="zh">好萊塢好好看.(n)</desc>
+  </programme>
+  <programme start="20220306085000 +0800" stop="20220306102000 +0800" channel="HBO 原創鉅獻">
+    <title lang="zh">初戀第二回合</title>
+    <desc lang="zh">實境節目主持人娜塔莉在被解僱後，回到家鄉幫忙準備小鎮的情人節年度拍賣會，並在兩個媽媽處心積慮的設計下和前未婚夫重逢.(n)</desc>
+  </programme>
+  <programme start="20220306102000 +0800" stop="20220306112000 +0800" channel="HBO 原創鉅獻">
+    <title lang="zh">鍍金年代第1季-第6集</title>
+    <desc lang="zh">1882年身無分文的瑪麗安搬到紐約市與繼承大筆遺產的姑姑同住，因此捲入她們和殘酷的富有鄰居之間的社交戰爭.(n)</desc>
+  </programme>
+  <programme start="20220306112000 +0800" stop="20220306133500 +0800" channel="HBO 原創鉅獻">
+    <title lang="zh">決戰中途島</title>
+    <desc lang="zh">本片改編中途島戰役的真實歷史事件，描述二戰領導者與軍人如何透過直覺、毅力與勇氣來克服萬難.(n)</desc>
+  </programme>
+  <programme start="20220306133500 +0800" stop="20220306151000 +0800" channel="HBO 原創鉅獻">
+    <title lang="zh">金童星夢</title>
+    <desc lang="zh">本片赤裸地探討娛樂產業童星這門高風險、高報酬的職業。片中詳實記錄孩童在個人和職業上因名氣和失敗付出的代價.(n)</desc>
+  </programme>
+  <programme start="20220306151000 +0800" stop="20220306165500 +0800" channel="HBO 原創鉅獻">
+    <title lang="zh">心靈病房</title>
+    <desc lang="zh">這部HBO自製電影是關於一名抗癌女戰士，如何從得知自己罹患癌症開始，到面對生命的省思，以及體驗生命真正意義，一路辛苦走來，經歷許多痛苦，最後勇敢面對死亡.(n)</desc>
+  </programme>
+  <programme start="20220306165500 +0800" stop="20220306190000 +0800" channel="HBO 原創鉅獻">
+    <title lang="zh">艾瑪.</title>
+    <desc lang="zh">聰明美麗又富有的艾瑪伍德豪斯是寧靜小鎮上忙碌的社交女王，她在這個諷刺社會階級與描述成長必經痛苦的華麗故事中，歷經錯點鴛鴦譜與一廂情願的浪漫計劃後，發現真愛一直都在身旁.(n)</desc>
+  </programme>
+  <programme start="20220306190000 +0800" stop="20220306205000 +0800" channel="HBO 原創鉅獻">
+    <title lang="zh">渾身是勁</title>
+    <desc lang="zh">這是一部讚頌青春與搖滾樂的電影，片中倫恩在廢工廠勁舞的那一幕已成為影史經典畫面，凱文貝肯也因此而一片成名，成為當時最受歡迎的青春偶像。本本片原聲帶是當年的多白金暢銷專輯，同時入圍奧斯卡最佳電影主題曲.(n)</desc>
+  </programme>
+  <programme start="20220306205000 +0800" stop="20220306213000 +0800" channel="HBO 原創鉅獻">
+    <title lang="zh">神祐家族第2季-第9集</title>
+    <desc lang="zh">這齣黑色喜劇影集描寫聞名全世界的福音家族長期在其慈善工作背後的出軌、貪腐的事蹟.(n)</desc>
+  </programme>
+  <programme start="20220306213000 +0800" stop="20220306220000 +0800" channel="HBO 原創鉅獻">
+    <title lang="zh">堪薩斯之歌第1季-第7集</title>
+    <desc lang="zh">珊費盡心力要適應家鄉的環境，唱歌是她唯一的救贖，她藉此發覺自我，並認識一群無法融入卻不放棄努力的邊緣人.(n)</desc>
+  </programme>
+  <programme start="20220306220000 +0800" stop="20220306220000 +0800" channel="HBO 原創鉅獻">
+    <title lang="zh">蘇西的世界</title>
+    <desc lang="zh">14歲的蘇西正要體驗人生初戀，卻被鄰居哈維先生謀殺了。她的家人在面臨喪女悲痛之餘，也走向分崩離析的命運。而同時蘇西也在死後的世界勇敢地尋找自己的足跡.(n)</desc>
+  </programme>
+  <programme start="20220306220000 +0800" stop="20220307001000 +0800" channel="HBO 原創鉅獻">
+    <title lang="zh">蘇西的世界</title>
+    <desc lang="zh">14歲的蘇西正要體驗人生初戀，卻被鄰居哈維先生謀殺了。她的家人在面臨喪女悲痛之餘，也走向分崩離析的命運。而同時蘇西也在死後的世界勇敢地尋找自己的足跡.(n)</desc>
+  </programme>
+  <programme start="20220307001000 +0800" stop="20220307020500 +0800" channel="HBO 原創鉅獻">
+    <title lang="zh">贖罪</title>
+    <desc lang="zh">本片由綺拉奈特莉與新生代小生詹姆斯麥艾維主演。以巧妙的倒敘手法，交織出白昂妮的心路歷程。全片優美細膩並有非常深刻的情感詮釋.(n)</desc>
+  </programme>
+  <programme start="20220307020500 +0800" stop="20220307033000 +0800" channel="HBO 原創鉅獻">
+    <title lang="zh">惡獵遊戲</title>
+    <desc lang="zh">12名陌生人在空地醒來，不知自己身在何處，而此時可怕的網路陰謀正暗自展開，兇殘的社會精英展開獵殺人類的遊戲。然而獵物之一的克麗絲朵卻奮力抵抗，漸漸扭轉局勢，「獵人」精心安排的計畫也將出現出人意料的結果.(n)</desc>
+  </programme>
+  <programme start="20220307033000 +0800" stop="20220307052500 +0800" channel="HBO 原創鉅獻">
+    <title lang="zh">冷血悍將</title>
+    <desc lang="zh">文森及時趕至救了山姆一命，殺了希蒙斯，此舉使得歷經三十年內戰的北愛爾蘭，在即將簽下和平協議的一刻，得以不受恐怖分子破壞，順利達成協議.(n)</desc>
+  </programme>
+  <programme start="20220307052500 +0800" stop="20220307071000 +0800" channel="HBO 原創鉅獻">
+    <title lang="zh">給茱麗葉的信</title>
+    <desc lang="zh">美國女孩蘇菲到義大利旅行，在小說中維諾納小鎮的茱麗葉之家，原本應由「茱麗葉秘書」回覆的大量信件中，發現一封未被注意到的「給茱麗葉的信」，因而展開尋找信中戀人的旅程.(n)</desc>
+  </programme>
+  <programme start="20220307071000 +0800" stop="20220307092500 +0800" channel="HBO 原創鉅獻">
+    <title lang="zh">決戰中途島</title>
+    <desc lang="zh">本片改編中途島戰役的真實歷史事件，描述二戰領導者與軍人如何透過直覺、毅力與勇氣來克服萬難.(n)</desc>
+  </programme>
+  <programme start="20220307092500 +0800" stop="20220307110000 +0800" channel="HBO 原創鉅獻">
+    <title lang="zh">戀愛學分</title>
+    <desc lang="zh">布萊恩從小就是大學機智問答節目的忠實粉絲，1985年，他如願進了布里斯托大學，加入該校代表隊，愛上了隊員愛麗絲，也結交許多好友.(n)</desc>
+  </programme>
+  <programme start="20220307110000 +0800" stop="20220307125500 +0800" channel="HBO 原創鉅獻">
+    <title lang="zh">贖罪</title>
+    <desc lang="zh">本片由綺拉奈特莉與新生代小生詹姆斯麥艾維主演。以巧妙的倒敘手法，交織出白昂妮的心路歷程。全片優美細膩並有非常深刻的情感詮釋.(n)</desc>
+  </programme>
+  <programme start="20220307125500 +0800" stop="20220307145000 +0800" channel="HBO 原創鉅獻">
+    <title lang="zh">冷血悍將</title>
+    <desc lang="zh">文森及時趕至救了山姆一命，殺了希蒙斯，此舉使得歷經三十年內戰的北愛爾蘭，在即將簽下和平協議的一刻，得以不受恐怖分子破壞，順利達成協議.(n)</desc>
+  </programme>
+  <programme start="20220307145000 +0800" stop="20220307170500 +0800" channel="HBO 原創鉅獻">
+    <title lang="zh">蘇西的世界</title>
+    <desc lang="zh">14歲的蘇西正要體驗人生初戀，卻被鄰居哈維先生謀殺了。她的家人在面臨喪女悲痛之餘，也走向分崩離析的命運。而同時蘇西也在死後的世界勇敢地尋找自己的足跡.(n)</desc>
+  </programme>
+  <programme start="20220307170500 +0800" stop="20220307184500 +0800" channel="HBO 原創鉅獻">
+    <title lang="zh">給茱麗葉的信</title>
+    <desc lang="zh">美國女孩蘇菲到義大利旅行，在小說中維諾納小鎮的茱麗葉之家，原本應由「茱麗葉秘書」回覆的大量信件中，發現一封未被注意到的「給茱麗葉的信」，因而展開尋找信中戀人的旅程.(n)</desc>
+  </programme>
+  <programme start="20220307184500 +0800" stop="20220307201500 +0800" channel="HBO 原創鉅獻">
+    <title lang="zh">回首半生緣</title>
+    <desc lang="zh">凱倫和蓋比這對人人稱羨的神仙眷侶，得知他們最好的朋友十二年的婚姻竟以離婚收場，因而感到無比震驚，也迫使他們回頭細細檢視自己的婚姻.(n)</desc>
+  </programme>
+  <programme start="20220307201500 +0800" stop="20220307220000 +0800" channel="HBO 原創鉅獻">
+    <title lang="zh">敦克爾克大行動</title>
+    <desc lang="zh">1940年5月，德軍跨越法國將同盟國軍隊困在敦克爾克海灘上，當地居民受到徵召共同加入救援行動.(n)</desc>
+  </programme>
+  <programme start="20220307220000 +0800" stop="20220307233500 +0800" channel="HBO 原創鉅獻">
+    <title lang="zh">說不出的告別</title>
+    <desc lang="zh">為了給予身患重病的母親最後的陪伴，家族三代的成員在週末回到他們的鄉間老家.(n)</desc>
+  </programme>
+  <programme start="20220307233500 +0800" stop="20220307233500 +0800" channel="HBO 原創鉅獻">
+    <title lang="zh">同盟鶼鰈</title>
+    <desc lang="zh">情報人員麥斯得知妻子可能秘密替敵方工作，他只有三天的時間去證明她的清白及保全他的家庭.(n)</desc>
+  </programme>
+  <programme start="20220307233500 +0800" stop="20220308013500 +0800" channel="HBO 原創鉅獻">
+    <title lang="zh">同盟鶼鰈</title>
+    <desc lang="zh">情報人員麥斯得知妻子可能秘密替敵方工作，他只有三天的時間去證明她的清白及保全他的家庭.(n)</desc>
+  </programme>
+  <programme start="20220308013500 +0800" stop="20220308032000 +0800" channel="HBO 原創鉅獻">
+    <title lang="zh">失去丈夫之後</title>
+    <desc lang="zh">莉比在丈夫死後，努力要讓生活回到正軌，並帶著孩子搬到德州中部，投靠在當地經營牧場的久未聯繫的阿姨.(n)</desc>
+  </programme>
+  <programme start="20220308032000 +0800" stop="20220308052500 +0800" channel="HBO 原創鉅獻">
+    <title lang="zh">大賣空</title>
+    <desc lang="zh">四個局外人眼見金融危機即將發生而策畫的大賣空計畫，讓他們陷入了一切都不可靠的現代金融體系的深淵.(n)</desc>
+  </programme>
+  <programme start="20220308052500 +0800" stop="20220308075000 +0800" channel="HBO 原創鉅獻">
+    <title lang="zh">殺戮時刻</title>
+    <desc lang="zh">年輕有理想的新手律師登上法庭為正義奮戰，而這起謀殺案很可能將引爆小鎮的種族衝突.(n)</desc>
+  </programme>
+  <programme start="20220308075000 +0800" stop="20220308095000 +0800" channel="HBO 原創鉅獻">
+    <title lang="zh">同盟鶼鰈</title>
+    <desc lang="zh">情報人員麥斯得知妻子可能秘密替敵方工作，他只有三天的時間去證明她的清白及保全他的家庭.(n)</desc>
+  </programme>
+  <programme start="20220308095000 +0800" stop="20220308113500 +0800" channel="HBO 原創鉅獻">
+    <title lang="zh">敦克爾克大行動</title>
+    <desc lang="zh">1940年5月，德軍跨越法國將同盟國軍隊困在敦克爾克海灘上，當地居民受到徵召共同加入救援行動.(n)</desc>
+  </programme>
+  <programme start="20220308113500 +0800" stop="20220308132500 +0800" channel="HBO 原創鉅獻">
+    <title lang="zh">單身媽媽俱樂部</title>
+    <desc lang="zh">五個煩悶的單親媽媽摒除歧見，成立了支援團體，藉由剛發展出的姐妹情誼，獲得啟發和歡笑，並協助彼此克服生活的阻礙.(n)</desc>
+  </programme>
+  <programme start="20220308132500 +0800" stop="20220308150500 +0800" channel="HBO 原創鉅獻">
+    <title lang="zh">說不出的告別</title>
+    <desc lang="zh">為了給予身患重病的母親最後的陪伴，家族三代的成員在週末回到他們的鄉間老家.(n)</desc>
+  </programme>
+  <programme start="20220308150500 +0800" stop="20220308165500 +0800" channel="HBO 原創鉅獻">
+    <title lang="zh">失去丈夫之後</title>
+    <desc lang="zh">莉比在丈夫死後，努力要讓生活回到正軌，並帶著孩子搬到德州中部，投靠在當地經營牧場的久未聯繫的阿姨.(n)</desc>
+  </programme>
+  <programme start="20220308165500 +0800" stop="20220308184500 +0800" channel="HBO 原創鉅獻">
+    <title lang="zh">星星的孩子</title>
+    <desc lang="zh">本片改編自真人真事.劇中人物譚波博士自小被歸類為高功能亞斯伯格症患者,成長和求學過程中飽受不少歧視，幸好在親友不離不棄鼓勵下，憑著自己能理解動物語言的專長成為畜牧業權威.(n)</desc>
+  </programme>
+  <programme start="20220308184500 +0800" stop="20220308201000 +0800" channel="HBO 原創鉅獻">
+    <title lang="zh">救命援手</title>
+    <desc lang="zh">本片根據真實故事拍攝而成，並由演員與實際人物共同參與拍攝。當女兒凱麗的愛滋同志好友阿麥爾失蹤時，安娜不但得重拾和女兒的破碎關係，也得同時協尋阿麥爾。在這過程中，安娜終於學會拯救、療癒、愛與放手的真諦.(n)</desc>
+  </programme>
+  <programme start="20220308201000 +0800" stop="20220308220000 +0800" channel="HBO 原創鉅獻">
+    <title lang="zh">居禮夫人-放射永恆</title>
+    <desc lang="zh">本片描述瑪莉居禮真實但驚人的生命旅程。她對科學滿腔熱血，即便明顯智慧過人，要推展突破性研究仍然困然重重.(n)</desc>
+  </programme>
+  <programme start="20220308220000 +0800" stop="20220308230000 +0800" channel="HBO 原創鉅獻">
+    <title lang="zh">勝利時刻-湖人王朝的崛起第1季-第1集</title>
+    <desc lang="zh">本片描述1980年代洛杉磯湖人隊成為全世界最成功的職業籃球隊的奮鬥過程.(n)</desc>
+  </programme>
+  <programme start="20220308230000 +0800" stop="20220308230000 +0800" channel="HBO 原創鉅獻">
+    <title lang="zh">飆速青春</title>
+    <desc lang="zh">熱愛另類搖滾的德州叛逆少女布麗絲為了逃避小鎮上的麻煩事，而加入鄰近的奧斯汀市的競速滑輪隊.(n)</desc>
+  </programme>
+  <programme start="20220308230000 +0800" stop="20220309005000 +0800" channel="HBO 原創鉅獻">
+    <title lang="zh">飆速青春</title>
+    <desc lang="zh">熱愛另類搖滾的德州叛逆少女布麗絲為了逃避小鎮上的麻煩事，而加入鄰近的奧斯汀市的競速滑輪隊.(n)</desc>
+  </programme>
+  <programme start="20220309005000 +0800" stop="20220309022500 +0800" channel="HBO 原創鉅獻">
+    <title lang="zh">魔咒</title>
+    <desc lang="zh">一名男子墜機在阿帕拉契山後醒來發現自己被困在一個傳統巫毒術師的家中。他得在血月升起前逃離她的控制，才能解救家人.(n)</desc>
+  </programme>
+  <programme start="20220309022500 +0800" stop="20220309042000 +0800" channel="HBO 原創鉅獻">
+    <title lang="zh">300壯士-斯巴達的逆襲</title>
+    <desc lang="zh">本片根據法蘭克米勒漫畫小說改編，敘述在西元前四百八十年，斯巴達國王率領三百名菁英對抗入侵的波斯軍隊，以寡擊眾的磅礡故事.(n)</desc>
+  </programme>
+  <programme start="20220309042000 +0800" stop="20220309044500 +0800" channel="HBO 原創鉅獻">
+    <title lang="zh">好萊塢好好看-第950集</title>
+    <desc lang="zh">好萊塢好好看.(n)</desc>
+  </programme>
+  <programme start="20220309044500 +0800" stop="20220309064500 +0800" channel="HBO 原創鉅獻">
+    <title lang="zh">鳥人</title>
+    <desc lang="zh">本片描寫因飾演超級英雄偶像而走紅的演員，努力登上百老匯舞台的故事.(n)</desc>
+  </programme>
+  <programme start="20220309064500 +0800" stop="20220309083500 +0800" channel="HBO 原創鉅獻">
+    <title lang="zh">星星的孩子</title>
+    <desc lang="zh">本片改編自真人真事.劇中人物譚波博士自小被歸類為高功能亞斯伯格症患者,成長和求學過程中飽受不少歧視，幸好在親友不離不棄鼓勵下，憑著自己能理解動物語言的專長成為畜牧業權威.(n)</desc>
+  </programme>
+  <programme start="20220309083500 +0800" stop="20220309103000 +0800" channel="HBO 原創鉅獻">
+    <title lang="zh">飆速青春</title>
+    <desc lang="zh">熱愛另類搖滾的德州叛逆少女布麗絲為了逃避小鎮上的麻煩事，而加入鄰近的奧斯汀市的競速滑輪隊.(n)</desc>
+  </programme>
+  <programme start="20220309103000 +0800" stop="20220309121500 +0800" channel="HBO 原創鉅獻">
+    <title lang="zh">先生你哪位</title>
+    <desc lang="zh">擔心自己會孤單一輩子的艾莉開始和之前的戀人再度聯繫，只為了尋找她人生中的最佳”前任.(n)</desc>
+  </programme>
+  <programme start="20220309121500 +0800" stop="20220309131500 +0800" channel="HBO 原創鉅獻">
+    <title lang="zh">勝利時刻-湖人王朝的崛起第1季-第1集</title>
+    <desc lang="zh">本片描述1980年代洛杉磯湖人隊成為全世界最成功的職業籃球隊的奮鬥過程.(n)</desc>
+  </programme>
+  <programme start="20220309131500 +0800" stop="20220309150500 +0800" channel="HBO 原創鉅獻">
+    <title lang="zh">居禮夫人-放射永恆</title>
+    <desc lang="zh">本片描述瑪莉居禮真實但驚人的生命旅程。她對科學滿腔熱血，即便明顯智慧過人，要推展突破性研究仍然困然重重.(n)</desc>
+  </programme>
+  <programme start="20220309150500 +0800" stop="20220309170000 +0800" channel="HBO 原創鉅獻">
+    <title lang="zh">棒球男孩</title>
+    <desc lang="zh">HBO原創自製電影，描寫來自多明尼加的投手努力奮鬥想進入大聯盟，讓家人脫離貧窮的故事.(n)</desc>
+  </programme>
+  <programme start="20220309170000 +0800" stop="20220309191000 +0800" channel="HBO 原創鉅獻">
+    <title lang="zh">魂歸傷膝谷</title>
+    <desc lang="zh">本片以蘇族在小大角之役大勝卡斯達中校為開端，三個角色的獨特觀點相互交織著.(n)</desc>
+  </programme>
+  <programme start="20220309191000 +0800" stop="20220309204500 +0800" channel="HBO 原創鉅獻">
+    <title lang="zh">我們之間的距離</title>
+    <desc lang="zh">個性古怪的過氣的搖滾樂手米奇亞當斯碰上在唱片公司收發室工作的年輕人查理波特，查理被公司派來和米奇解約，卻意外與他建立了深具意義的友誼.(n)</desc>
+  </programme>
+  <programme start="20220309204500 +0800" stop="20220309220000 +0800" channel="HBO 原創鉅獻">
+    <title lang="zh">狗年</title>
+    <desc lang="zh">本片根據暢銷作者強卡茲2003年著作改編而成，敘述年過五十的作家面臨人生存在感危機，他出於衝動養了一隻純種邊境牧羊犬,而這牧羊犬幾乎要徹底毀了他的家!(n)</desc>
+  </programme>
+  <programme start="20220309220000 +0800" stop="20220309230000 +0800" channel="HBO 原創鉅獻">
+    <title lang="zh">鍍金年代第1季-第7集</title>
+    <desc lang="zh">1882年身無分文的瑪麗安搬到紐約市與繼承大筆遺產的姑姑同住，因此捲入她們和殘酷的富有鄰居之間的社交戰爭.(n)</desc>
+  </programme>
+  <programme start="20220309230000 +0800" stop="20220309230000 +0800" channel="HBO 原創鉅獻">
+    <title lang="zh">鳥人</title>
+    <desc lang="zh">本片描寫因飾演超級英雄偶像而走紅的演員，努力登上百老匯舞台的故事.(n)</desc>
+  </programme>
+  <programme start="20220309230000 +0800" stop="20220310005500 +0800" channel="HBO 原創鉅獻">
+    <title lang="zh">鳥人</title>
+    <desc lang="zh">本片描寫因飾演超級英雄偶像而走紅的演員，努力登上百老匯舞台的故事.(n)</desc>
+  </programme>
+  <programme start="20220310005500 +0800" stop="20220310025500 +0800" channel="HBO 原創鉅獻">
+    <title lang="zh">瘋狂麥斯-憤怒道</title>
+    <desc lang="zh">這齣由喬治米勒執導，榮獲奧斯卡獎肯定的”瘋狂麥斯系列電影”的第四部，將公路戰士麥斯洛克坦斯基重新帶回大螢幕.(n)</desc>
+  </programme>
+  <programme start="20220310025500 +0800" stop="20220310051000 +0800" channel="HBO 原創鉅獻">
+    <title lang="zh">鬥陣俱樂部</title>
+    <desc lang="zh">年輕商人結識具有反社會傾向的肥皂銷售員，兩人創立名為鬥陣俱樂部的地下組織，讓成員不受任何限制的互相鬥毆.(n)</desc>
+  </programme>
+  <programme start="20220310051000 +0800" stop="20220310064000 +0800" channel="HBO 原創鉅獻">
+    <title lang="zh">逃</title>
+    <desc lang="zh">黛安在與世隔絕的環境下獨自拉拔女兒長大，自從女兒出生就控制她的一舉一動，但克蘿伊漸漸發現媽媽的秘密.(n)</desc>
+  </programme>
+  <programme start="20220310064000 +0800" stop="20220310082000 +0800" channel="HBO 原創鉅獻">
+    <title lang="zh">先生你哪位</title>
+    <desc lang="zh">擔心自己會孤單一輩子的艾莉開始和之前的戀人再度聯繫，只為了尋找她人生中的最佳”前任.(n)</desc>
+  </programme>
+  <programme start="20220310082000 +0800" stop="20220310104000 +0800" channel="HBO 原創鉅獻">
+    <title lang="zh">決戰中途島</title>
+    <desc lang="zh">本片改編中途島戰役的真實歷史事件，描述二戰領導者與軍人如何透過直覺、毅力與勇氣來克服萬難.(n)</desc>
+  </programme>
+  <programme start="20220310104000 +0800" stop="20220310122000 +0800" channel="HBO 原創鉅獻">
+    <title lang="zh">我們之間的距離</title>
+    <desc lang="zh">個性古怪的過氣的搖滾樂手米奇亞當斯碰上在唱片公司收發室工作的年輕人查理波特，查理被公司派來和米奇解約，卻意外與他建立了深具意義的友誼.(n)</desc>
+  </programme>
+  <programme start="20220310122000 +0800" stop="20220310132000 +0800" channel="HBO 原創鉅獻">
+    <title lang="zh">鍍金年代第1季-第7集</title>
+    <desc lang="zh">1882年身無分文的瑪麗安搬到紐約市與繼承大筆遺產的姑姑同住，因此捲入她們和殘酷的富有鄰居之間的社交戰爭.(n)</desc>
+  </programme>
+  <programme start="20220310132000 +0800" stop="20220310145500 +0800" channel="HBO 原創鉅獻">
+    <title lang="zh">逃</title>
+    <desc lang="zh">黛安在與世隔絕的環境下獨自拉拔女兒長大，自從女兒出生就控制她的一舉一動，但克蘿伊漸漸發現媽媽的秘密.(n)</desc>
+  </programme>
+  <programme start="20220310145500 +0800" stop="20220310164000 +0800" channel="HBO 原創鉅獻">
+    <title lang="zh">洛夫羅倫-polo衫打江山</title>
+    <desc lang="zh">關於時尚教主洛夫羅倫的首部紀錄片，片中透露這個創造出時尚界最成功的品牌之一的男子，在偶像光環之下的真實面貌.(n)</desc>
+  </programme>
+  <programme start="20220310164000 +0800" stop="20220310181500 +0800" channel="HBO 原創鉅獻">
+    <title lang="zh">初戀第二回合</title>
+    <desc lang="zh">實境節目主持人娜塔莉在被解僱後，回到家鄉幫忙準備小鎮的情人節年度拍賣會，並在兩個媽媽處心積慮的設計下和前未婚夫重逢.(n)</desc>
+  </programme>
+  <programme start="20220310181500 +0800" stop="20220310195500 +0800" channel="HBO 原創鉅獻">
+    <title lang="zh">一飛沖天</title>
+    <desc lang="zh">高中生霍爾說起話來老是結結巴巴。在他父母協議分居的那一晚，辯論隊隊長班表現失常，讓隊員琴妮失去奪冠的機會。於是琴妮收編霍爾為隊員並展開魔鬼訓練，這時愛苗卻在兩人之間悄悄滋長.(n)</desc>
+  </programme>
+  <programme start="20220310195500 +0800" stop="20220310220000 +0800" channel="HBO 原創鉅獻">
+    <title lang="zh">大賣空</title>
+    <desc lang="zh">四個局外人眼見金融危機即將發生而策畫的大賣空計畫，讓他們陷入了一切都不可靠的現代金融體系的深淵.(n)</desc>
+  </programme>
+  <programme start="20220310220000 +0800" stop="20220310234500 +0800" channel="HBO 原創鉅獻">
+    <title lang="zh">娜妲麗華-女明星之死</title>
+    <desc lang="zh">娜塔莎葛瑞森韋納以女兒的視角，觀看她母親娜妲麗華的演藝人生.(n)</desc>
+  </programme>
+  <programme start="20220310234500 +0800" stop="20220310234500 +0800" channel="HBO 原創鉅獻">
+    <title lang="zh">龍紋身的女孩</title>
+    <desc lang="zh">本片改編自同名暢銷小說，並由丹尼爾克雷格和魯妮瑪拉領銜主演.(n)</desc>
+  </programme>
+  <programme start="20220310234500 +0800" stop="20220311022000 +0800" channel="HBO 原創鉅獻">
+    <title lang="zh">龍紋身的女孩</title>
+    <desc lang="zh">本片改編自同名暢銷小說，並由丹尼爾克雷格和魯妮瑪拉領銜主演.(n)</desc>
+  </programme>
+  <programme start="20220303000500 +0800" stop="20220303003500 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">芝麻街第50季-第13集</title>
+    <desc lang="zh">使用「強烈的視覺風格、快速動作、幽默和音樂」以及動畫和真人短片來構造其內容.(n)</desc>
+  </programme>
+  <programme start="20220303003500 +0800" stop="20220303010500 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">芝麻街第44季-第22集</title>
+    <desc lang="zh">通過電視節目和人偶的力量來幫助世界各地的兒童實現其最大潛能。在鼓舞兒童主動進行學習的同時，節目保證了兒童在認知方面的基礎教學，即入學準備中有關理論、社交、身體和情感等方面的必要技巧.(n)</desc>
+  </programme>
+  <programme start="20220303010500 +0800" stop="20220303014000 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">芝麻街第44季-第23集</title>
+    <desc lang="zh">通過電視節目和人偶的力量來幫助世界各地的兒童實現其最大潛能。在鼓舞兒童主動進行學習的同時，節目保證了兒童在認知方面的基礎教學，即入學準備中有關理論、社交、身體和情感等方面的必要技巧.(n)</desc>
+  </programme>
+  <programme start="20220303014000 +0800" stop="20220303021000 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">芝麻街第46季-第22集</title>
+    <desc lang="zh">使用「強烈的視覺風格、快速動作、幽默和音樂」以及動畫和真人短片來構造其內容.(n)</desc>
+  </programme>
+  <programme start="20220303021000 +0800" stop="20220303024000 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">芝麻街第46季-第23集</title>
+    <desc lang="zh">使用「強烈的視覺風格、快速動作、幽默和音樂」以及動畫和真人短片來構造其內容.(n)</desc>
+  </programme>
+  <programme start="20220303024000 +0800" stop="20220303044500 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">手札情緣</title>
+    <desc lang="zh">艾莉卡宏出現早期阿茲海默症的症狀，為了喚起她的記憶並不讓她落於死神之手，諾亞每天守候在她的病榻，為她唸他手札裡紀錄的一則悲劇性愛情故事…電影來回穿梭於二戰前的美國於現代美國之間.(n)</desc>
+  </programme>
+  <programme start="20220303044500 +0800" stop="20220303060500 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">歡樂聖誕情</title>
+    <desc lang="zh">潔西卡提出職呈後，老闆請她幫忙和他帥氣的弟弟在聖誕節時照顧他的姪子、姪女.(n)</desc>
+  </programme>
+  <programme start="20220303060500 +0800" stop="20220303063000 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">童話王國第3季-第3集</title>
+    <desc lang="zh">退休歌手德里幫助三隻小豬建造新家，一方面提防邪惡的大野狼進攻.(n)</desc>
+  </programme>
+  <programme start="20220303063000 +0800" stop="20220303070000 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">童話王國第3季-第4集</title>
+    <desc lang="zh">退休歌手德里幫助三隻小豬建造新家，一方面提防邪惡的大野狼進攻.(n)</desc>
+  </programme>
+  <programme start="20220303070000 +0800" stop="20220303072500 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">蝙蝠俠-智勇悍將第1季-第5集</title>
+    <desc lang="zh">蝙蝠俠找藍甲蟲去處理即將撞上太空站的隕石，想看看這小鬼頭有沒有變成英雄的本事，但是藍甲蟲無法控制甲蟲裝，結果兩人雙雙被蟲洞吸進去，來到銀河系另一邊.(n)</desc>
+  </programme>
+  <programme start="20220303072500 +0800" stop="20220303075500 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">蝙蝠俠-智勇悍將第1季-第6集</title>
+    <desc lang="zh">蝙蝠俠找藍甲蟲去處理即將撞上太空站的隕石，想看看這小鬼頭有沒有變成英雄的本事，但是藍甲蟲無法控制甲蟲裝，結果兩人雙雙被蟲洞吸進去，來到銀河系另一邊.(n)</desc>
+  </programme>
+  <programme start="20220303075500 +0800" stop="20220303082500 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">芝麻街第44季-第22集</title>
+    <desc lang="zh">通過電視節目和人偶的力量來幫助世界各地的兒童實現其最大潛能。在鼓舞兒童主動進行學習的同時，節目保證了兒童在認知方面的基礎教學，即入學準備中有關理論、社交、身體和情感等方面的必要技巧.(n)</desc>
+  </programme>
+  <programme start="20220303082500 +0800" stop="20220303090000 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">芝麻街第44季-第23集</title>
+    <desc lang="zh">通過電視節目和人偶的力量來幫助世界各地的兒童實現其最大潛能。在鼓舞兒童主動進行學習的同時，節目保證了兒童在認知方面的基礎教學，即入學準備中有關理論、社交、身體和情感等方面的必要技巧.(n)</desc>
+  </programme>
+  <programme start="20220303090000 +0800" stop="20220303093000 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">芝麻街第46季-第22集</title>
+    <desc lang="zh">使用「強烈的視覺風格、快速動作、幽默和音樂」以及動畫和真人短片來構造其內容.(n)</desc>
+  </programme>
+  <programme start="20220303093000 +0800" stop="20220303100000 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">芝麻街第46季-第23集</title>
+    <desc lang="zh">使用「強烈的視覺風格、快速動作、幽默和音樂」以及動畫和真人短片來構造其內容.(n)</desc>
+  </programme>
+  <programme start="20220303100000 +0800" stop="20220303103000 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">芝麻街第50季-第12集</title>
+    <desc lang="zh">使用「強烈的視覺風格、快速動作、幽默和音樂」以及動畫和真人短片來構造其內容.(n)</desc>
+  </programme>
+  <programme start="20220303103000 +0800" stop="20220303110000 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">芝麻街第50季-第13集</title>
+    <desc lang="zh">使用「強烈的視覺風格、快速動作、幽默和音樂」以及動畫和真人短片來構造其內容.(n)</desc>
+  </programme>
+  <programme start="20220303110000 +0800" stop="20220303122500 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">天才小子吉米</title>
+    <desc lang="zh">有時願望成真不見得是好事-天才小子吉米這次將親身領略到這一點。吉米總是喜歡發明一些小玩意，使他在瑞特委里的生活更為有趣，但總會有不太靈光的時候，惹出的麻煩讓他的父母非常頭疼，也因此時有爭執.(n)</desc>
+  </programme>
+  <programme start="20220303122500 +0800" stop="20220303125500 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">童話王國第3季-第5集</title>
+    <desc lang="zh">退休歌手德里幫助三隻小豬建造新家，一方面提防邪惡的大野狼進攻.(n)</desc>
+  </programme>
+  <programme start="20220303125500 +0800" stop="20220303132000 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">童話王國第3季-第6集</title>
+    <desc lang="zh">退休歌手德里幫助三隻小豬建造新家，一方面提防邪惡的大野狼進攻.(n)</desc>
+  </programme>
+  <programme start="20220303132000 +0800" stop="20220303150000 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">燕尾服</title>
+    <desc lang="zh">司機吉米對老闆的燕尾服愛不釋手，他驚然發現穿上它會賜予人類神奇的力量，不但讓他變得瀟灑帥氣，還能拯救人類.(n)</desc>
+  </programme>
+  <programme start="20220303150000 +0800" stop="20220303153000 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">芝麻街第44季-第24集</title>
+    <desc lang="zh">通過電視節目和人偶的力量來幫助世界各地的兒童實現其最大潛能。在鼓舞兒童主動進行學習的同時，節目保證了兒童在認知方面的基礎教學，即入學準備中有關理論、社交、身體和情感等方面的必要技巧.(n)</desc>
+  </programme>
+  <programme start="20220303153000 +0800" stop="20220303160500 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">芝麻街第44季-第25集</title>
+    <desc lang="zh">通過電視節目和人偶的力量來幫助世界各地的兒童實現其最大潛能。在鼓舞兒童主動進行學習的同時，節目保證了兒童在認知方面的基礎教學，即入學準備中有關理論、社交、身體和情感等方面的必要技巧.(n)</desc>
+  </programme>
+  <programme start="20220303160500 +0800" stop="20220303163000 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">芝麻街第46季-第24集</title>
+    <desc lang="zh">使用「強烈的視覺風格、快速動作、幽默和音樂」以及動畫和真人短片來構造其內容.(n)</desc>
+  </programme>
+  <programme start="20220303163000 +0800" stop="20220303170000 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">芝麻街第46季-第25集</title>
+    <desc lang="zh">使用「強烈的視覺風格、快速動作、幽默和音樂」以及動畫和真人短片來構造其內容.(n)</desc>
+  </programme>
+  <programme start="20220303170000 +0800" stop="20220303173000 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">蝙蝠俠-智勇悍將第1季-第5集</title>
+    <desc lang="zh">蝙蝠俠找藍甲蟲去處理即將撞上太空站的隕石，想看看這小鬼頭有沒有變成英雄的本事，但是藍甲蟲無法控制甲蟲裝，結果兩人雙雙被蟲洞吸進去，來到銀河系另一邊.(n)</desc>
+  </programme>
+  <programme start="20220303173000 +0800" stop="20220303180000 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">蝙蝠俠-智勇悍將第1季-第6集</title>
+    <desc lang="zh">蝙蝠俠找藍甲蟲去處理即將撞上太空站的隕石，想看看這小鬼頭有沒有變成英雄的本事，但是藍甲蟲無法控制甲蟲裝，結果兩人雙雙被蟲洞吸進去，來到銀河系另一邊.(n)</desc>
+  </programme>
+  <programme start="20220303180000 +0800" stop="20220303190000 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">芝麻街第50季-第14集</title>
+    <desc lang="zh">使用「強烈的視覺風格、快速動作、幽默和音樂」以及動畫和真人短片來構造其內容.(n)</desc>
+  </programme>
+  <programme start="20220303190000 +0800" stop="20220303202500 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">搖頭娃娃大電影</title>
+    <desc lang="zh">杜司是新的搖頭娃娃，他要和三個搖頭娃娃合作，趁闖入的親戚偷走另一個搖頭娃娃前趕走他們.(n)</desc>
+  </programme>
+  <programme start="20220303202500 +0800" stop="20220303215500 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">阿達一族</title>
+    <desc lang="zh">阿達一族的大家長高魔子帶著一家子人住在一棟陰森森的維多利亞式宅院中，高魔子心中唯一掛念的就是已經離散25年的哥哥.(n)</desc>
+  </programme>
+  <programme start="20220303215500 +0800" stop="20220304000000 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">手札情緣</title>
+    <desc lang="zh">艾莉卡宏出現早期阿茲海默症的症狀，為了喚起她的記憶並不讓她落於死神之手，諾亞每天守候在她的病榻，為她唸他手札裡紀錄的一則悲劇性愛情故事…電影來回穿梭於二戰前的美國於現代美國之間.(n)</desc>
+  </programme>
+  <programme start="20220304000000 +0800" stop="20220304003000 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">芝麻街第50季-第14集</title>
+    <desc lang="zh">使用「強烈的視覺風格、快速動作、幽默和音樂」以及動畫和真人短片來構造其內容.(n)</desc>
+  </programme>
+  <programme start="20220304003000 +0800" stop="20220304010000 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">芝麻街第50季-第15集</title>
+    <desc lang="zh">使用「強烈的視覺風格、快速動作、幽默和音樂」以及動畫和真人短片來構造其內容.(n)</desc>
+  </programme>
+  <programme start="20220304010000 +0800" stop="20220304013000 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">芝麻街第44季-第24集</title>
+    <desc lang="zh">通過電視節目和人偶的力量來幫助世界各地的兒童實現其最大潛能。在鼓舞兒童主動進行學習的同時，節目保證了兒童在認知方面的基礎教學，即入學準備中有關理論、社交、身體和情感等方面的必要技巧.(n)</desc>
+  </programme>
+  <programme start="20220304013000 +0800" stop="20220304020500 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">芝麻街第44季-第25集</title>
+    <desc lang="zh">通過電視節目和人偶的力量來幫助世界各地的兒童實現其最大潛能。在鼓舞兒童主動進行學習的同時，節目保證了兒童在認知方面的基礎教學，即入學準備中有關理論、社交、身體和情感等方面的必要技巧.(n)</desc>
+  </programme>
+  <programme start="20220304020500 +0800" stop="20220304023500 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">芝麻街第46季-第24集</title>
+    <desc lang="zh">使用「強烈的視覺風格、快速動作、幽默和音樂」以及動畫和真人短片來構造其內容.(n)</desc>
+  </programme>
+  <programme start="20220304023500 +0800" stop="20220304030500 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">芝麻街第46季-第25集</title>
+    <desc lang="zh">使用「強烈的視覺風格、快速動作、幽默和音樂」以及動畫和真人短片來構造其內容.(n)</desc>
+  </programme>
+  <programme start="20220304030500 +0800" stop="20220304043000 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">歡樂聖誕情</title>
+    <desc lang="zh">潔西卡提出職呈後，老闆請她幫忙和他帥氣的弟弟在聖誕節時照顧他的姪子、姪女.(n)</desc>
+  </programme>
+  <programme start="20220304043000 +0800" stop="20220304050000 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">好萊塢好好看-第950集</title>
+    <desc lang="zh">好萊塢好好看.(n)</desc>
+  </programme>
+  <programme start="20220304050000 +0800" stop="20220304063000 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">凸搥特派員</title>
+    <desc lang="zh">英國情報單位在無人可用的情況下，只好拔擢菜鳥特務強尼英格力阻止皇室珠寶竊案背後的主腦.(n)</desc>
+  </programme>
+  <programme start="20220304063000 +0800" stop="20220304070500 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">童話王國第3季-第5集</title>
+    <desc lang="zh">退休歌手德里幫助三隻小豬建造新家，一方面提防邪惡的大野狼進攻.(n)</desc>
+  </programme>
+  <programme start="20220304070500 +0800" stop="20220304073000 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">蝙蝠俠-智勇悍將第1季-第7集</title>
+    <desc lang="zh">蝙蝠俠找藍甲蟲去處理即將撞上太空站的隕石，想看看這小鬼頭有沒有變成英雄的本事，但是藍甲蟲無法控制甲蟲裝，結果兩人雙雙被蟲洞吸進去，來到銀河系另一邊.(n)</desc>
+  </programme>
+  <programme start="20220304073000 +0800" stop="20220304080000 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">蝙蝠俠-智勇悍將第1季-第8集</title>
+    <desc lang="zh">蝙蝠俠找藍甲蟲去處理即將撞上太空站的隕石，想看看這小鬼頭有沒有變成英雄的本事，但是藍甲蟲無法控制甲蟲裝，結果兩人雙雙被蟲洞吸進去，來到銀河系另一邊.(n)</desc>
+  </programme>
+  <programme start="20220304080000 +0800" stop="20220304083000 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">芝麻街第44季-第24集</title>
+    <desc lang="zh">通過電視節目和人偶的力量來幫助世界各地的兒童實現其最大潛能。在鼓舞兒童主動進行學習的同時，節目保證了兒童在認知方面的基礎教學，即入學準備中有關理論、社交、身體和情感等方面的必要技巧.(n)</desc>
+  </programme>
+  <programme start="20220304083000 +0800" stop="20220304090500 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">芝麻街第44季-第25集</title>
+    <desc lang="zh">通過電視節目和人偶的力量來幫助世界各地的兒童實現其最大潛能。在鼓舞兒童主動進行學習的同時，節目保證了兒童在認知方面的基礎教學，即入學準備中有關理論、社交、身體和情感等方面的必要技巧.(n)</desc>
+  </programme>
+  <programme start="20220304090500 +0800" stop="20220304093500 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">芝麻街第46季-第24集</title>
+    <desc lang="zh">使用「強烈的視覺風格、快速動作、幽默和音樂」以及動畫和真人短片來構造其內容.(n)</desc>
+  </programme>
+  <programme start="20220304093500 +0800" stop="20220304100500 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">芝麻街第46季-第25集</title>
+    <desc lang="zh">使用「強烈的視覺風格、快速動作、幽默和音樂」以及動畫和真人短片來構造其內容.(n)</desc>
+  </programme>
+  <programme start="20220304100500 +0800" stop="20220304103500 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">芝麻街第50季-第14集</title>
+    <desc lang="zh">使用「強烈的視覺風格、快速動作、幽默和音樂」以及動畫和真人短片來構造其內容.(n)</desc>
+  </programme>
+  <programme start="20220304103500 +0800" stop="20220304110500 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">芝麻街第50季-第15集</title>
+    <desc lang="zh">使用「強烈的視覺風格、快速動作、幽默和音樂」以及動畫和真人短片來構造其內容.(n)</desc>
+  </programme>
+  <programme start="20220304110500 +0800" stop="20220304123000 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">搖頭娃娃大電影</title>
+    <desc lang="zh">杜司是新的搖頭娃娃，他要和三個搖頭娃娃合作，趁闖入的親戚偷走另一個搖頭娃娃前趕走他們.(n)</desc>
+  </programme>
+  <programme start="20220304123000 +0800" stop="20220304130000 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">童話王國第3季-第7集</title>
+    <desc lang="zh">退休歌手德里幫助三隻小豬建造新家，一方面提防邪惡的大野狼進攻.(n)</desc>
+  </programme>
+  <programme start="20220304130000 +0800" stop="20220304133500 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">童話王國第3季-第8集</title>
+    <desc lang="zh">退休歌手德里幫助三隻小豬建造新家，一方面提防邪惡的大野狼進攻.(n)</desc>
+  </programme>
+  <programme start="20220304133500 +0800" stop="20220304150000 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">阿達一族</title>
+    <desc lang="zh">阿達一族的大家長高魔子帶著一家子人住在一棟陰森森的維多利亞式宅院中，高魔子心中唯一掛念的就是已經離散25年的哥哥.(n)</desc>
+  </programme>
+  <programme start="20220304150000 +0800" stop="20220304153000 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">芝麻街第44季-第26集</title>
+    <desc lang="zh">通過電視節目和人偶的力量來幫助世界各地的兒童實現其最大潛能。在鼓舞兒童主動進行學習的同時，節目保證了兒童在認知方面的基礎教學，即入學準備中有關理論、社交、身體和情感等方面的必要技巧.(n)</desc>
+  </programme>
+  <programme start="20220304153000 +0800" stop="20220304160000 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">芝麻街第45季-第1集</title>
+    <desc lang="zh">通過電視節目和人偶的力量來幫助世界各地的兒童實現其最大潛能。在鼓舞兒童主動進行學習的同時，節目保證了兒童在認知方面的基礎教學，即入學準備中有關理論、社交、身體和情感等方面的必要技巧.(n)</desc>
+  </programme>
+  <programme start="20220304160000 +0800" stop="20220304163000 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">芝麻街第46季-第26集</title>
+    <desc lang="zh">使用「強烈的視覺風格、快速動作、幽默和音樂」以及動畫和真人短片來構造其內容.(n)</desc>
+  </programme>
+  <programme start="20220304163000 +0800" stop="20220304170000 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">芝麻街第46季-第27集</title>
+    <desc lang="zh">使用「強烈的視覺風格、快速動作、幽默和音樂」以及動畫和真人短片來構造其內容.(n)</desc>
+  </programme>
+  <programme start="20220304170000 +0800" stop="20220304173000 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">蝙蝠俠-智勇悍將第1季-第7集</title>
+    <desc lang="zh">蝙蝠俠找藍甲蟲去處理即將撞上太空站的隕石，想看看這小鬼頭有沒有變成英雄的本事，但是藍甲蟲無法控制甲蟲裝，結果兩人雙雙被蟲洞吸進去，來到銀河系另一邊.(n)</desc>
+  </programme>
+  <programme start="20220304173000 +0800" stop="20220304180000 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">蝙蝠俠-智勇悍將第1季-第8集</title>
+    <desc lang="zh">蝙蝠俠找藍甲蟲去處理即將撞上太空站的隕石，想看看這小鬼頭有沒有變成英雄的本事，但是藍甲蟲無法控制甲蟲裝，結果兩人雙雙被蟲洞吸進去，來到銀河系另一邊.(n)</desc>
+  </programme>
+  <programme start="20220304180000 +0800" stop="20220304183000 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">芝麻街第50季-第16集</title>
+    <desc lang="zh">使用「強烈的視覺風格、快速動作、幽默和音樂」以及動畫和真人短片來構造其內容.(n)</desc>
+  </programme>
+  <programme start="20220304183000 +0800" stop="20220304190000 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">芝麻街第50季-第17集</title>
+    <desc lang="zh">使用「強烈的視覺風格、快速動作、幽默和音樂」以及動畫和真人短片來構造其內容.(n)</desc>
+  </programme>
+  <programme start="20220304190000 +0800" stop="20220304203500 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">神偷奶爸</title>
+    <desc lang="zh">當三個小孩進入超級壞蛋的生活中，他面臨了此生最大的挑戰.(n)</desc>
+  </programme>
+  <programme start="20220304203500 +0800" stop="20220304221500 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">湯姆貓與傑利鼠</title>
+    <desc lang="zh">傑利鼠住在新英格蘭郡的一個大宅中，屋主是一對和藹的老夫婦，傑利鼠和他的主人一直都是朋友。老夫婦過世後，這段獨特又逗趣的情誼畫上了句點，而且大宅要賣給別人。新屋主一家搬進來後，傑利鼠想把他們嚇跑，因為對方霸佔了自己的家。為了趕走害蟲，新屋主隨後領養了一隻流浪貓，取名為湯姆。家中迎來一場史詩級的戰役，湯姆貓與傑利鼠才明白自己有多愛這一家人，他們必須合作以抵禦外來威脅，最後才明白親情和友情的真諦.(n)</desc>
+  </programme>
+  <programme start="20220304221500 +0800" stop="20220304234500 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">凸搥特派員</title>
+    <desc lang="zh">英國情報單位在無人可用的情況下，只好拔擢菜鳥特務強尼英格力阻止皇室珠寶竊案背後的主腦.(n)</desc>
+  </programme>
+  <programme start="20220304234500 +0800" stop="20220304234500 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">芝麻街第50季-第16集</title>
+    <desc lang="zh">使用「強烈的視覺風格、快速動作、幽默和音樂」以及動畫和真人短片來構造其內容.(n)</desc>
+  </programme>
+  <programme start="20220304234500 +0800" stop="20220305001500 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">芝麻街第50季-第16集</title>
+    <desc lang="zh">使用「強烈的視覺風格、快速動作、幽默和音樂」以及動畫和真人短片來構造其內容.(n)</desc>
+  </programme>
+  <programme start="20220305001500 +0800" stop="20220305004500 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">芝麻街第50季-第17集</title>
+    <desc lang="zh">使用「強烈的視覺風格、快速動作、幽默和音樂」以及動畫和真人短片來構造其內容.(n)</desc>
+  </programme>
+  <programme start="20220305004500 +0800" stop="20220305012000 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">芝麻街第44季-第26集</title>
+    <desc lang="zh">通過電視節目和人偶的力量來幫助世界各地的兒童實現其最大潛能。在鼓舞兒童主動進行學習的同時，節目保證了兒童在認知方面的基礎教學，即入學準備中有關理論、社交、身體和情感等方面的必要技巧.(n)</desc>
+  </programme>
+  <programme start="20220305012000 +0800" stop="20220305015000 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">芝麻街第45季-第1集</title>
+    <desc lang="zh">通過電視節目和人偶的力量來幫助世界各地的兒童實現其最大潛能。在鼓舞兒童主動進行學習的同時，節目保證了兒童在認知方面的基礎教學，即入學準備中有關理論、社交、身體和情感等方面的必要技巧.(n)</desc>
+  </programme>
+  <programme start="20220305015000 +0800" stop="20220305022000 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">芝麻街第46季-第26集</title>
+    <desc lang="zh">使用「強烈的視覺風格、快速動作、幽默和音樂」以及動畫和真人短片來構造其內容.(n)</desc>
+  </programme>
+  <programme start="20220305022000 +0800" stop="20220305025000 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">芝麻街第46季-第27集</title>
+    <desc lang="zh">使用「強烈的視覺風格、快速動作、幽默和音樂」以及動畫和真人短片來構造其內容.(n)</desc>
+  </programme>
+  <programme start="20220305025000 +0800" stop="20220305043000 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">家有兩個爸</title>
+    <desc lang="zh">本片描述一名個性溫和的電台高層人士，努力成為最佳繼父，但當兩個孩子放盪不羈的生父出現後，情況變得複雜許多，迫使他必須想辦法爭取孩子的認同.(n)</desc>
+  </programme>
+  <programme start="20220305043000 +0800" stop="20220305060500 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">挺身而出</title>
+    <desc lang="zh">雪莉莎剛轉學來到新學校，卻面臨同班女生的無情嘲諷和戲弄。這些女王蜂處處和她作對，在課堂上、公車上、網路上甚至連游泳課都不放過她.(n)</desc>
+  </programme>
+  <programme start="20220305060500 +0800" stop="20220305073500 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">超級狐狸先生</title>
+    <desc lang="zh">這齣由韋斯安德森執導並榮獲金獎提名的動畫電影改編自羅爾德達爾的經典童書，劇情描寫一隻曾以偷竊家禽為生的狐狸難以抵擋再次犯案的誘惑.(n)</desc>
+  </programme>
+  <programme start="20220305073500 +0800" stop="20220305080400 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">芝麻街第44季-第18集</title>
+    <desc lang="zh">通過電視節目和人偶的力量來幫助世界各地的兒童實現其最大潛能。在鼓舞兒童主動進行學習的同時，節目保證了兒童在認知方面的基礎教學，即入學準備中有關理論、社交、身體和情感等方面的必要技巧.(n)</desc>
+  </programme>
+  <programme start="20220305080400 +0800" stop="20220305083300 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">芝麻街第44季-第19集</title>
+    <desc lang="zh">通過電視節目和人偶的力量來幫助世界各地的兒童實現其最大潛能。在鼓舞兒童主動進行學習的同時，節目保證了兒童在認知方面的基礎教學，即入學準備中有關理論、社交、身體和情感等方面的必要技巧.(n)</desc>
+  </programme>
+  <programme start="20220305083300 +0800" stop="20220305090200 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">芝麻街第44季-第20集</title>
+    <desc lang="zh">通過電視節目和人偶的力量來幫助世界各地的兒童實現其最大潛能。在鼓舞兒童主動進行學習的同時，節目保證了兒童在認知方面的基礎教學，即入學準備中有關理論、社交、身體和情感等方面的必要技巧.(n)</desc>
+  </programme>
+  <programme start="20220305090200 +0800" stop="20220305093200 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">芝麻街第44季-第21集</title>
+    <desc lang="zh">通過電視節目和人偶的力量來幫助世界各地的兒童實現其最大潛能。在鼓舞兒童主動進行學習的同時，節目保證了兒童在認知方面的基礎教學，即入學準備中有關理論、社交、身體和情感等方面的必要技巧.(n)</desc>
+  </programme>
+  <programme start="20220305093200 +0800" stop="20220305100100 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">芝麻街第44季-第22集</title>
+    <desc lang="zh">通過電視節目和人偶的力量來幫助世界各地的兒童實現其最大潛能。在鼓舞兒童主動進行學習的同時，節目保證了兒童在認知方面的基礎教學，即入學準備中有關理論、社交、身體和情感等方面的必要技巧.(n)</desc>
+  </programme>
+  <programme start="20220305100100 +0800" stop="20220305103000 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">芝麻街第44季-第23集</title>
+    <desc lang="zh">通過電視節目和人偶的力量來幫助世界各地的兒童實現其最大潛能。在鼓舞兒童主動進行學習的同時，節目保證了兒童在認知方面的基礎教學，即入學準備中有關理論、社交、身體和情感等方面的必要技巧.(n)</desc>
+  </programme>
+  <programme start="20220305103000 +0800" stop="20220305105800 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">芝麻街第44季-第24集</title>
+    <desc lang="zh">通過電視節目和人偶的力量來幫助世界各地的兒童實現其最大潛能。在鼓舞兒童主動進行學習的同時，節目保證了兒童在認知方面的基礎教學，即入學準備中有關理論、社交、身體和情感等方面的必要技巧.(n)</desc>
+  </programme>
+  <programme start="20220305105800 +0800" stop="20220305112700 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">芝麻街第44季-第25集</title>
+    <desc lang="zh">通過電視節目和人偶的力量來幫助世界各地的兒童實現其最大潛能。在鼓舞兒童主動進行學習的同時，節目保證了兒童在認知方面的基礎教學，即入學準備中有關理論、社交、身體和情感等方面的必要技巧.(n)</desc>
+  </programme>
+  <programme start="20220305112700 +0800" stop="20220305120500 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">芝麻街第44季-第26集</title>
+    <desc lang="zh">通過電視節目和人偶的力量來幫助世界各地的兒童實現其最大潛能。在鼓舞兒童主動進行學習的同時，節目保證了兒童在認知方面的基礎教學，即入學準備中有關理論、社交、身體和情感等方面的必要技巧.(n)</desc>
+  </programme>
+  <programme start="20220305120500 +0800" stop="20220305123500 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">芝麻街第45季-第1集</title>
+    <desc lang="zh">通過電視節目和人偶的力量來幫助世界各地的兒童實現其最大潛能。在鼓舞兒童主動進行學習的同時，節目保證了兒童在認知方面的基礎教學，即入學準備中有關理論、社交、身體和情感等方面的必要技巧.(n)</desc>
+  </programme>
+  <programme start="20220305123500 +0800" stop="20220305141000 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">神偷奶爸</title>
+    <desc lang="zh">當三個小孩進入超級壞蛋的生活中，他面臨了此生最大的挑戰.(n)</desc>
+  </programme>
+  <programme start="20220305141000 +0800" stop="20220305155000 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">家有兩個爸</title>
+    <desc lang="zh">本片描述一名個性溫和的電台高層人士，努力成為最佳繼父，但當兩個孩子放盪不羈的生父出現後，情況變得複雜許多，迫使他必須想辦法爭取孩子的認同.(n)</desc>
+  </programme>
+  <programme start="20220305155000 +0800" stop="20220305173000 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">湯姆貓與傑利鼠</title>
+    <desc lang="zh">傑利鼠住在新英格蘭郡的一個大宅中，屋主是一對和藹的老夫婦，傑利鼠和他的主人一直都是朋友。老夫婦過世後，這段獨特又逗趣的情誼畫上了句點，而且大宅要賣給別人。新屋主一家搬進來後，傑利鼠想把他們嚇跑，因為對方霸佔了自己的家。為了趕走害蟲，新屋主隨後領養了一隻流浪貓，取名為湯姆。家中迎來一場史詩級的戰役，湯姆貓與傑利鼠才明白自己有多愛這一家人，他們必須合作以抵禦外來威脅，最後才明白親情和友情的真諦.(n)</desc>
+  </programme>
+  <programme start="20220305173000 +0800" stop="20220305190000 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">超級狐狸先生</title>
+    <desc lang="zh">這齣由韋斯安德森執導並榮獲金獎提名的動畫電影改編自羅爾德達爾的經典童書，劇情描寫一隻曾以偷竊家禽為生的狐狸難以抵擋再次犯案的誘惑.(n)</desc>
+  </programme>
+  <programme start="20220305190000 +0800" stop="20220305205500 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">馬利與我</title>
+    <desc lang="zh">一名專欄作家和妻子為了嘗試當父母的滋味而領養了完全不受控制的拉不拉多犬馬利，沒想到馬利卻成為這個家不可或缺的一份子.(n)</desc>
+  </programme>
+  <programme start="20220305205500 +0800" stop="20220305223000 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">小小兵</title>
+    <desc lang="zh">快跟著小小兵三人組展開尋找新邪惡主人的冒險旅程.(n)</desc>
+  </programme>
+  <programme start="20220305223000 +0800" stop="20220305225500 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">芝麻街第50季-第8集</title>
+    <desc lang="zh">使用「強烈的視覺風格、快速動作、幽默和音樂」以及動畫和真人短片來構造其內容.(n)</desc>
+  </programme>
+  <programme start="20220305225500 +0800" stop="20220305232000 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">芝麻街第50季-第9集</title>
+    <desc lang="zh">使用「強烈的視覺風格、快速動作、幽默和音樂」以及動畫和真人短片來構造其內容.(n)</desc>
+  </programme>
+  <programme start="20220305232000 +0800" stop="20220305234500 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">芝麻街第50季-第10集</title>
+    <desc lang="zh">使用「強烈的視覺風格、快速動作、幽默和音樂」以及動畫和真人短片來構造其內容.(n)</desc>
+  </programme>
+  <programme start="20220305234500 +0800" stop="20220305234500 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">芝麻街第50季-第11集</title>
+    <desc lang="zh">使用「強烈的視覺風格、快速動作、幽默和音樂」以及動畫和真人短片來構造其內容.(n)</desc>
+  </programme>
+  <programme start="20220305234500 +0800" stop="20220306001000 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">芝麻街第50季-第11集</title>
+    <desc lang="zh">使用「強烈的視覺風格、快速動作、幽默和音樂」以及動畫和真人短片來構造其內容.(n)</desc>
+  </programme>
+  <programme start="20220306001000 +0800" stop="20220306003500 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">芝麻街第50季-第12集</title>
+    <desc lang="zh">使用「強烈的視覺風格、快速動作、幽默和音樂」以及動畫和真人短片來構造其內容.(n)</desc>
+  </programme>
+  <programme start="20220306003500 +0800" stop="20220306010000 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">芝麻街第50季-第13集</title>
+    <desc lang="zh">使用「強烈的視覺風格、快速動作、幽默和音樂」以及動畫和真人短片來構造其內容.(n)</desc>
+  </programme>
+  <programme start="20220306010000 +0800" stop="20220306012500 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">芝麻街第50季-第14集</title>
+    <desc lang="zh">使用「強烈的視覺風格、快速動作、幽默和音樂」以及動畫和真人短片來構造其內容.(n)</desc>
+  </programme>
+  <programme start="20220306012500 +0800" stop="20220306015000 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">芝麻街第50季-第15集</title>
+    <desc lang="zh">使用「強烈的視覺風格、快速動作、幽默和音樂」以及動畫和真人短片來構造其內容.(n)</desc>
+  </programme>
+  <programme start="20220306015000 +0800" stop="20220306021500 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">芝麻街第50季-第16集</title>
+    <desc lang="zh">使用「強烈的視覺風格、快速動作、幽默和音樂」以及動畫和真人短片來構造其內容.(n)</desc>
+  </programme>
+  <programme start="20220306021500 +0800" stop="20220306025500 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">芝麻街第50季-第17集</title>
+    <desc lang="zh">使用「強烈的視覺風格、快速動作、幽默和音樂」以及動畫和真人短片來構造其內容.(n)</desc>
+  </programme>
+  <programme start="20220306025500 +0800" stop="20220306053000 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">超人再起</title>
+    <desc lang="zh">經過五年在太空的漂流後，重返地球的超人發現露意絲已經訂婚，而大壞蛋雷克斯路瑟則在醞釀一個更具毀滅性的計畫.(n)</desc>
+  </programme>
+  <programme start="20220306053000 +0800" stop="20220306070000 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">鄉愛我心</title>
+    <desc lang="zh">努力奮鬥的鄉村歌手為了激發靈感而和納什維爾一名的詞曲創作者碰面。兩人合作寫歌的過程波折不斷，卻仍然造就出一首熱門歌曲……與一段真愛.(n)</desc>
+  </programme>
+  <programme start="20220306070000 +0800" stop="20220306072500 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">芝麻街第46季-第18集</title>
+    <desc lang="zh">使用「強烈的視覺風格、快速動作、幽默和音樂」以及動畫和真人短片來構造其內容.(n)</desc>
+  </programme>
+  <programme start="20220306072500 +0800" stop="20220306075000 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">芝麻街第46季-第19集</title>
+    <desc lang="zh">使用「強烈的視覺風格、快速動作、幽默和音樂」以及動畫和真人短片來構造其內容.(n)</desc>
+  </programme>
+  <programme start="20220306075000 +0800" stop="20220306081500 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">芝麻街第46季-第20集</title>
+    <desc lang="zh">使用「強烈的視覺風格、快速動作、幽默和音樂」以及動畫和真人短片來構造其內容.(n)</desc>
+  </programme>
+  <programme start="20220306081500 +0800" stop="20220306084000 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">芝麻街第46季-第21集</title>
+    <desc lang="zh">使用「強烈的視覺風格、快速動作、幽默和音樂」以及動畫和真人短片來構造其內容.(n)</desc>
+  </programme>
+  <programme start="20220306084000 +0800" stop="20220306091500 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">芝麻街第46季-第22集</title>
+    <desc lang="zh">使用「強烈的視覺風格、快速動作、幽默和音樂」以及動畫和真人短片來構造其內容.(n)</desc>
+  </programme>
+  <programme start="20220306091500 +0800" stop="20220306094400 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">童話王國第3季-第1集</title>
+    <desc lang="zh">退休歌手德里幫助三隻小豬建造新家，一方面提防邪惡的大野狼進攻.(n)</desc>
+  </programme>
+  <programme start="20220306094400 +0800" stop="20220306101500 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">童話王國第3季-第2集</title>
+    <desc lang="zh">退休歌手德里幫助三隻小豬建造新家，一方面提防邪惡的大野狼進攻.(n)</desc>
+  </programme>
+  <programme start="20220306101500 +0800" stop="20220306103700 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">蝙蝠俠-智勇悍將第1季-第1集</title>
+    <desc lang="zh">蝙蝠俠找藍甲蟲去處理即將撞上太空站的隕石，想看看這小鬼頭有沒有變成英雄的本事，但是藍甲蟲無法控制甲蟲裝，結果兩人雙雙被蟲洞吸進去，來到銀河系另一邊.(n)</desc>
+  </programme>
+  <programme start="20220306103700 +0800" stop="20220306105900 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">蝙蝠俠-智勇悍將第1季-第2集</title>
+    <desc lang="zh">蝙蝠俠找藍甲蟲去處理即將撞上太空站的隕石，想看看這小鬼頭有沒有變成英雄的本事，但是藍甲蟲無法控制甲蟲裝，結果兩人雙雙被蟲洞吸進去，來到銀河系另一邊.(n)</desc>
+  </programme>
+  <programme start="20220306105900 +0800" stop="20220306113000 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">蝙蝠俠-智勇悍將第1季-第3集</title>
+    <desc lang="zh">蝙蝠俠找藍甲蟲去處理即將撞上太空站的隕石，想看看這小鬼頭有沒有變成英雄的本事，但是藍甲蟲無法控制甲蟲裝，結果兩人雙雙被蟲洞吸進去，來到銀河系另一邊.(n)</desc>
+  </programme>
+  <programme start="20220306113000 +0800" stop="20220306132000 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">馬利與我</title>
+    <desc lang="zh">一名專欄作家和妻子為了嘗試當父母的滋味而領養了完全不受控制的拉不拉多犬馬利，沒想到馬利卻成為這個家不可或缺的一份子.(n)</desc>
+  </programme>
+  <programme start="20220306132000 +0800" stop="20220306145000 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">小小兵</title>
+    <desc lang="zh">快跟著小小兵三人組展開尋找新邪惡主人的冒險旅程.(n)</desc>
+  </programme>
+  <programme start="20220306145000 +0800" stop="20220306172000 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">超人再起</title>
+    <desc lang="zh">經過五年在太空的漂流後，重返地球的超人發現露意絲已經訂婚，而大壞蛋雷克斯路瑟則在醞釀一個更具毀滅性的計畫.(n)</desc>
+  </programme>
+  <programme start="20220306172000 +0800" stop="20220306190000 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">迷走星球</title>
+    <desc lang="zh">請一起來參加太空版的《野蠻遊戲》！一對老愛針鋒相對的兄弟玩起桌上遊戲後，發現遊戲竟然具有自己的意志，還將他們連人帶房子拋入外太空.(n)</desc>
+  </programme>
+  <programme start="20220306190000 +0800" stop="20220306203000 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">藍色小精靈-失落的藍藍村</title>
+    <desc lang="zh">小美人和好友小聰明、小笨蛋與小壯丁，展開穿越禁忌森林，尋找失落村莊的冒險之旅.(n)</desc>
+  </programme>
+  <programme start="20220306203000 +0800" stop="20220306222000 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">山寨公主</title>
+    <desc lang="zh">女孩和家人到巴黎旅遊時意外成為公主，原本平凡的人生一夕之間變成美麗的童話.(n)</desc>
+  </programme>
+  <programme start="20220306222000 +0800" stop="20220306224500 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">芝麻街第46季-第23集</title>
+    <desc lang="zh">使用「強烈的視覺風格、快速動作、幽默和音樂」以及動畫和真人短片來構造其內容.(n)</desc>
+  </programme>
+  <programme start="20220306224500 +0800" stop="20220306231000 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">芝麻街第46季-第24集</title>
+    <desc lang="zh">使用「強烈的視覺風格、快速動作、幽默和音樂」以及動畫和真人短片來構造其內容.(n)</desc>
+  </programme>
+  <programme start="20220306231000 +0800" stop="20220306233500 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">芝麻街第46季-第25集</title>
+    <desc lang="zh">使用「強烈的視覺風格、快速動作、幽默和音樂」以及動畫和真人短片來構造其內容.(n)</desc>
+  </programme>
+  <programme start="20220306233500 +0800" stop="20220307000000 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">芝麻街第46季-第26集</title>
+    <desc lang="zh">使用「強烈的視覺風格、快速動作、幽默和音樂」以及動畫和真人短片來構造其內容.(n)</desc>
+  </programme>
+  <programme start="20220307000000 +0800" stop="20220307003500 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">芝麻街第46季-第27集</title>
+    <desc lang="zh">使用「強烈的視覺風格、快速動作、幽默和音樂」以及動畫和真人短片來構造其內容.(n)</desc>
+  </programme>
+  <programme start="20220307003500 +0800" stop="20220307005800 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">蝙蝠俠-智勇悍將第1季-第4集</title>
+    <desc lang="zh">蝙蝠俠找藍甲蟲去處理即將撞上太空站的隕石，想看看這小鬼頭有沒有變成英雄的本事，但是藍甲蟲無法控制甲蟲裝，結果兩人雙雙被蟲洞吸進去，來到銀河系另一邊.(n)</desc>
+  </programme>
+  <programme start="20220307005800 +0800" stop="20220307012000 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">蝙蝠俠-智勇悍將第1季-第5集</title>
+    <desc lang="zh">蝙蝠俠找藍甲蟲去處理即將撞上太空站的隕石，想看看這小鬼頭有沒有變成英雄的本事，但是藍甲蟲無法控制甲蟲裝，結果兩人雙雙被蟲洞吸進去，來到銀河系另一邊.(n)</desc>
+  </programme>
+  <programme start="20220307012000 +0800" stop="20220307014300 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">蝙蝠俠-智勇悍將第1季-第6集</title>
+    <desc lang="zh">蝙蝠俠找藍甲蟲去處理即將撞上太空站的隕石，想看看這小鬼頭有沒有變成英雄的本事，但是藍甲蟲無法控制甲蟲裝，結果兩人雙雙被蟲洞吸進去，來到銀河系另一邊.(n)</desc>
+  </programme>
+  <programme start="20220307014300 +0800" stop="20220307020500 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">蝙蝠俠-智勇悍將第1季-第7集</title>
+    <desc lang="zh">蝙蝠俠找藍甲蟲去處理即將撞上太空站的隕石，想看看這小鬼頭有沒有變成英雄的本事，但是藍甲蟲無法控制甲蟲裝，結果兩人雙雙被蟲洞吸進去，來到銀河系另一邊.(n)</desc>
+  </programme>
+  <programme start="20220307020500 +0800" stop="20220307023500 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">蝙蝠俠-智勇悍將第1季-第8集</title>
+    <desc lang="zh">蝙蝠俠找藍甲蟲去處理即將撞上太空站的隕石，想看看這小鬼頭有沒有變成英雄的本事，但是藍甲蟲無法控制甲蟲裝，結果兩人雙雙被蟲洞吸進去，來到銀河系另一邊.(n)</desc>
+  </programme>
+  <programme start="20220307023500 +0800" stop="20220307043000 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">新少棒闖天下</title>
+    <desc lang="zh">本片根據一九七六年的經典舊片重拍而成，敘述棒球教練莫利斯（比利鮑柏松頓飾）接下一支戰績不佳的小聯盟棒球隊，以愛之深責之切的方式將這群毫無實力的球隊改頭換面，訓練成一支常勝隊伍.(n)</desc>
+  </programme>
+  <programme start="20220307043000 +0800" stop="20220307050000 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">好萊塢好好看-第950集</title>
+    <desc lang="zh">好萊塢好好看.(n)</desc>
+  </programme>
+  <programme start="20220307050000 +0800" stop="20220307063500 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">我不老，我只是早熟</title>
+    <desc lang="zh">山姆和你我一樣，都會面臨老化，但在山姆的體內格外快速，醫生在他兩歲時診斷出早老症, 父母很努力想拯救兒子，也試用第一種實驗產品，有機會讓山姆和全球28位患者延長壽命.(n)</desc>
+  </programme>
+  <programme start="20220307063500 +0800" stop="20220307070000 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">童話王國第3季-第3集</title>
+    <desc lang="zh">退休歌手德里幫助三隻小豬建造新家，一方面提防邪惡的大野狼進攻.(n)</desc>
+  </programme>
+  <programme start="20220307070000 +0800" stop="20220307072500 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">蝙蝠俠-智勇悍將第1季-第9集</title>
+    <desc lang="zh">蝙蝠俠找藍甲蟲去處理即將撞上太空站的隕石，想看看這小鬼頭有沒有變成英雄的本事，但是藍甲蟲無法控制甲蟲裝，結果兩人雙雙被蟲洞吸進去，來到銀河系另一邊.(n)</desc>
+  </programme>
+  <programme start="20220307072500 +0800" stop="20220307075000 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">蝙蝠俠-智勇悍將第1季-第10集</title>
+    <desc lang="zh">蝙蝠俠找藍甲蟲去處理即將撞上太空站的隕石，想看看這小鬼頭有沒有變成英雄的本事，但是藍甲蟲無法控制甲蟲裝，結果兩人雙雙被蟲洞吸進去，來到銀河系另一邊.(n)</desc>
+  </programme>
+  <programme start="20220307075000 +0800" stop="20220307082000 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">芝麻街第44季-第26集</title>
+    <desc lang="zh">通過電視節目和人偶的力量來幫助世界各地的兒童實現其最大潛能。在鼓舞兒童主動進行學習的同時，節目保證了兒童在認知方面的基礎教學，即入學準備中有關理論、社交、身體和情感等方面的必要技巧.(n)</desc>
+  </programme>
+  <programme start="20220307082000 +0800" stop="20220307085000 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">芝麻街第45季-第1集</title>
+    <desc lang="zh">通過電視節目和人偶的力量來幫助世界各地的兒童實現其最大潛能。在鼓舞兒童主動進行學習的同時，節目保證了兒童在認知方面的基礎教學，即入學準備中有關理論、社交、身體和情感等方面的必要技巧.(n)</desc>
+  </programme>
+  <programme start="20220307085000 +0800" stop="20220307092000 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">芝麻街第46季-第26集</title>
+    <desc lang="zh">使用「強烈的視覺風格、快速動作、幽默和音樂」以及動畫和真人短片來構造其內容.(n)</desc>
+  </programme>
+  <programme start="20220307092000 +0800" stop="20220307095000 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">芝麻街第46季-第27集</title>
+    <desc lang="zh">使用「強烈的視覺風格、快速動作、幽默和音樂」以及動畫和真人短片來構造其內容.(n)</desc>
+  </programme>
+  <programme start="20220307095000 +0800" stop="20220307101500 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">芝麻街第50季-第16集</title>
+    <desc lang="zh">使用「強烈的視覺風格、快速動作、幽默和音樂」以及動畫和真人短片來構造其內容.(n)</desc>
+  </programme>
+  <programme start="20220307101500 +0800" stop="20220307104500 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">芝麻街第50季-第17集</title>
+    <desc lang="zh">使用「強烈的視覺風格、快速動作、幽默和音樂」以及動畫和真人短片來構造其內容.(n)</desc>
+  </programme>
+  <programme start="20220307104500 +0800" stop="20220307121500 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">藍色小精靈-失落的藍藍村</title>
+    <desc lang="zh">小美人和好友小聰明、小笨蛋與小壯丁，展開穿越禁忌森林，尋找失落村莊的冒險之旅.(n)</desc>
+  </programme>
+  <programme start="20220307121500 +0800" stop="20220307124500 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">童話王國第3季-第9集</title>
+    <desc lang="zh">退休歌手德里幫助三隻小豬建造新家，一方面提防邪惡的大野狼進攻.(n)</desc>
+  </programme>
+  <programme start="20220307124500 +0800" stop="20220307131000 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">童話王國第3季-第10集</title>
+    <desc lang="zh">退休歌手德里幫助三隻小豬建造新家，一方面提防邪惡的大野狼進攻.(n)</desc>
+  </programme>
+  <programme start="20220307131000 +0800" stop="20220307150000 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">山寨公主</title>
+    <desc lang="zh">女孩和家人到巴黎旅遊時意外成為公主，原本平凡的人生一夕之間變成美麗的童話.(n)</desc>
+  </programme>
+  <programme start="20220307150000 +0800" stop="20220307153000 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">芝麻街第45季-第2集</title>
+    <desc lang="zh">通過電視節目和人偶的力量來幫助世界各地的兒童實現其最大潛能。在鼓舞兒童主動進行學習的同時，節目保證了兒童在認知方面的基礎教學，即入學準備中有關理論、社交、身體和情感等方面的必要技巧.(n)</desc>
+  </programme>
+  <programme start="20220307153000 +0800" stop="20220307160000 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">芝麻街第45季-第3集</title>
+    <desc lang="zh">通過電視節目和人偶的力量來幫助世界各地的兒童實現其最大潛能。在鼓舞兒童主動進行學習的同時，節目保證了兒童在認知方面的基礎教學，即入學準備中有關理論、社交、身體和情感等方面的必要技巧.(n)</desc>
+  </programme>
+  <programme start="20220307160000 +0800" stop="20220307163000 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">芝麻街第46季-第28集</title>
+    <desc lang="zh">使用「強烈的視覺風格、快速動作、幽默和音樂」以及動畫和真人短片來構造其內容.(n)</desc>
+  </programme>
+  <programme start="20220307163000 +0800" stop="20220307170000 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">芝麻街第46季-第29集</title>
+    <desc lang="zh">使用「強烈的視覺風格、快速動作、幽默和音樂」以及動畫和真人短片來構造其內容.(n)</desc>
+  </programme>
+  <programme start="20220307170000 +0800" stop="20220307173000 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">蝙蝠俠-智勇悍將第1季-第9集</title>
+    <desc lang="zh">蝙蝠俠找藍甲蟲去處理即將撞上太空站的隕石，想看看這小鬼頭有沒有變成英雄的本事，但是藍甲蟲無法控制甲蟲裝，結果兩人雙雙被蟲洞吸進去，來到銀河系另一邊.(n)</desc>
+  </programme>
+  <programme start="20220307173000 +0800" stop="20220307180000 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">蝙蝠俠-智勇悍將第1季-第10集</title>
+    <desc lang="zh">蝙蝠俠找藍甲蟲去處理即將撞上太空站的隕石，想看看這小鬼頭有沒有變成英雄的本事，但是藍甲蟲無法控制甲蟲裝，結果兩人雙雙被蟲洞吸進去，來到銀河系另一邊.(n)</desc>
+  </programme>
+  <programme start="20220307180000 +0800" stop="20220307183000 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">芝麻街第50季-第18集</title>
+    <desc lang="zh">使用「強烈的視覺風格、快速動作、幽默和音樂」以及動畫和真人短片來構造其內容.(n)</desc>
+  </programme>
+  <programme start="20220307183000 +0800" stop="20220307190000 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">芝麻街第50季-第19集</title>
+    <desc lang="zh">使用「強烈的視覺風格、快速動作、幽默和音樂」以及動畫和真人短片來構造其內容.(n)</desc>
+  </programme>
+  <programme start="20220307190000 +0800" stop="20220307193500 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">芝麻街-故事結局的怪獸</title>
+    <desc lang="zh">本動畫片改編自廣受歡迎的繪本《最後有怪獸》（暫譯.(n)</desc>
+  </programme>
+  <programme start="20220307193500 +0800" stop="20220307210500 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">送子鳥</title>
+    <desc lang="zh">大型網購商店的頂尖快遞鸛鳥和其人類好友火速想把他們破天荒的第一個寶寶送到想要孩子的家庭，重拾鸛鳥在世界上的真正的使命.(n)</desc>
+  </programme>
+  <programme start="20220307210500 +0800" stop="20220307225000 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">飛越情海</title>
+    <desc lang="zh">知名的軍事承包商回到夏威夷和舊情人重新相遇，卻意外愛上奉命協助他的空軍調查員.(n)</desc>
+  </programme>
+  <programme start="20220307225000 +0800" stop="20220307225000 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">新少棒闖天下</title>
+    <desc lang="zh">本片根據一九七六年的經典舊片重拍而成，敘述棒球教練莫利斯（比利鮑柏松頓飾）接下一支戰績不佳的小聯盟棒球隊，以愛之深責之切的方式將這群毫無實力的球隊改頭換面，訓練成一支常勝隊伍.(n)</desc>
+  </programme>
+  <programme start="20220307225000 +0800" stop="20220308004000 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">新少棒闖天下</title>
+    <desc lang="zh">本片根據一九七六年的經典舊片重拍而成，敘述棒球教練莫利斯（比利鮑柏松頓飾）接下一支戰績不佳的小聯盟棒球隊，以愛之深責之切的方式將這群毫無實力的球隊改頭換面，訓練成一支常勝隊伍.(n)</desc>
+  </programme>
+  <programme start="20220308004000 +0800" stop="20220308011000 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">芝麻街第50季-第18集</title>
+    <desc lang="zh">使用「強烈的視覺風格、快速動作、幽默和音樂」以及動畫和真人短片來構造其內容.(n)</desc>
+  </programme>
+  <programme start="20220308011000 +0800" stop="20220308014000 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">芝麻街第50季-第19集</title>
+    <desc lang="zh">使用「強烈的視覺風格、快速動作、幽默和音樂」以及動畫和真人短片來構造其內容.(n)</desc>
+  </programme>
+  <programme start="20220308014000 +0800" stop="20220308021000 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">芝麻街第45季-第2集</title>
+    <desc lang="zh">通過電視節目和人偶的力量來幫助世界各地的兒童實現其最大潛能。在鼓舞兒童主動進行學習的同時，節目保證了兒童在認知方面的基礎教學，即入學準備中有關理論、社交、身體和情感等方面的必要技巧.(n)</desc>
+  </programme>
+  <programme start="20220308021000 +0800" stop="20220308024000 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">芝麻街第45季-第3集</title>
+    <desc lang="zh">通過電視節目和人偶的力量來幫助世界各地的兒童實現其最大潛能。在鼓舞兒童主動進行學習的同時，節目保證了兒童在認知方面的基礎教學，即入學準備中有關理論、社交、身體和情感等方面的必要技巧.(n)</desc>
+  </programme>
+  <programme start="20220308024000 +0800" stop="20220308031000 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">芝麻街第46季-第28集</title>
+    <desc lang="zh">使用「強烈的視覺風格、快速動作、幽默和音樂」以及動畫和真人短片來構造其內容.(n)</desc>
+  </programme>
+  <programme start="20220308031000 +0800" stop="20220308034000 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">芝麻街第46季-第29集</title>
+    <desc lang="zh">使用「強烈的視覺風格、快速動作、幽默和音樂」以及動畫和真人短片來構造其內容.(n)</desc>
+  </programme>
+  <programme start="20220308034000 +0800" stop="20220308053000 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">留住最後一支舞</title>
+    <desc lang="zh">這部專門為年輕觀眾打造的電影，不只有音樂和舞蹈等娛樂元素，更觸及種族間的衝突及青少年成長的嚴肅議題，在美國上映時，即以小兵立大功之姿奪得票房第一名.(n)</desc>
+  </programme>
+  <programme start="20220308053000 +0800" stop="20220308070000 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">挺身而出</title>
+    <desc lang="zh">雪莉莎剛轉學來到新學校，卻面臨同班女生的無情嘲諷和戲弄。這些女王蜂處處和她作對，在課堂上、公車上、網路上甚至連游泳課都不放過她.(n)</desc>
+  </programme>
+  <programme start="20220308070000 +0800" stop="20220308072500 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">蝙蝠俠-智勇悍將第1季-第11集</title>
+    <desc lang="zh">蝙蝠俠找藍甲蟲去處理即將撞上太空站的隕石，想看看這小鬼頭有沒有變成英雄的本事，但是藍甲蟲無法控制甲蟲裝，結果兩人雙雙被蟲洞吸進去，來到銀河系另一邊.(n)</desc>
+  </programme>
+  <programme start="20220308072500 +0800" stop="20220308075000 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">蝙蝠俠-智勇悍將第1季-第12集</title>
+    <desc lang="zh">蝙蝠俠找藍甲蟲去處理即將撞上太空站的隕石，想看看這小鬼頭有沒有變成英雄的本事，但是藍甲蟲無法控制甲蟲裝，結果兩人雙雙被蟲洞吸進去，來到銀河系另一邊.(n)</desc>
+  </programme>
+  <programme start="20220308075000 +0800" stop="20220308082000 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">芝麻街第45季-第2集</title>
+    <desc lang="zh">通過電視節目和人偶的力量來幫助世界各地的兒童實現其最大潛能。在鼓舞兒童主動進行學習的同時，節目保證了兒童在認知方面的基礎教學，即入學準備中有關理論、社交、身體和情感等方面的必要技巧.(n)</desc>
+  </programme>
+  <programme start="20220308082000 +0800" stop="20220308085000 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">芝麻街第45季-第3集</title>
+    <desc lang="zh">通過電視節目和人偶的力量來幫助世界各地的兒童實現其最大潛能。在鼓舞兒童主動進行學習的同時，節目保證了兒童在認知方面的基礎教學，即入學準備中有關理論、社交、身體和情感等方面的必要技巧.(n)</desc>
+  </programme>
+  <programme start="20220308085000 +0800" stop="20220308092000 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">芝麻街第46季-第28集</title>
+    <desc lang="zh">使用「強烈的視覺風格、快速動作、幽默和音樂」以及動畫和真人短片來構造其內容.(n)</desc>
+  </programme>
+  <programme start="20220308092000 +0800" stop="20220308095000 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">芝麻街第46季-第29集</title>
+    <desc lang="zh">使用「強烈的視覺風格、快速動作、幽默和音樂」以及動畫和真人短片來構造其內容.(n)</desc>
+  </programme>
+  <programme start="20220308095000 +0800" stop="20220308102000 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">芝麻街第50季-第18集</title>
+    <desc lang="zh">使用「強烈的視覺風格、快速動作、幽默和音樂」以及動畫和真人短片來構造其內容.(n)</desc>
+  </programme>
+  <programme start="20220308102000 +0800" stop="20220308105000 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">芝麻街第50季-第19集</title>
+    <desc lang="zh">使用「強烈的視覺風格、快速動作、幽默和音樂」以及動畫和真人短片來構造其內容.(n)</desc>
+  </programme>
+  <programme start="20220308105000 +0800" stop="20220308112500 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">芝麻街-故事結局的怪獸</title>
+    <desc lang="zh">本動畫片改編自廣受歡迎的繪本《最後有怪獸》（暫譯.(n)</desc>
+  </programme>
+  <programme start="20220308112500 +0800" stop="20220308125000 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">送子鳥</title>
+    <desc lang="zh">大型網購商店的頂尖快遞鸛鳥和其人類好友火速想把他們破天荒的第一個寶寶送到想要孩子的家庭，重拾鸛鳥在世界上的真正的使命.(n)</desc>
+  </programme>
+  <programme start="20220308125000 +0800" stop="20220308131500 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">童話王國第3季-第11集</title>
+    <desc lang="zh">退休歌手德里幫助三隻小豬建造新家，一方面提防邪惡的大野狼進攻.(n)</desc>
+  </programme>
+  <programme start="20220308131500 +0800" stop="20220308150000 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">飛越情海</title>
+    <desc lang="zh">知名的軍事承包商回到夏威夷和舊情人重新相遇，卻意外愛上奉命協助他的空軍調查員.(n)</desc>
+  </programme>
+  <programme start="20220308150000 +0800" stop="20220308153000 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">芝麻街第45季-第4集</title>
+    <desc lang="zh">通過電視節目和人偶的力量來幫助世界各地的兒童實現其最大潛能。在鼓舞兒童主動進行學習的同時，節目保證了兒童在認知方面的基礎教學，即入學準備中有關理論、社交、身體和情感等方面的必要技巧.(n)</desc>
+  </programme>
+  <programme start="20220308153000 +0800" stop="20220308160000 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">芝麻街第45季-第5集</title>
+    <desc lang="zh">通過電視節目和人偶的力量來幫助世界各地的兒童實現其最大潛能。在鼓舞兒童主動進行學習的同時，節目保證了兒童在認知方面的基礎教學，即入學準備中有關理論、社交、身體和情感等方面的必要技巧.(n)</desc>
+  </programme>
+  <programme start="20220308160000 +0800" stop="20220308163000 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">芝麻街第46季-第30集</title>
+    <desc lang="zh">使用「強烈的視覺風格、快速動作、幽默和音樂」以及動畫和真人短片來構造其內容.(n)</desc>
+  </programme>
+  <programme start="20220308163000 +0800" stop="20220308170000 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">芝麻街第46季-第31集</title>
+    <desc lang="zh">使用「強烈的視覺風格、快速動作、幽默和音樂」以及動畫和真人短片來構造其內容.(n)</desc>
+  </programme>
+  <programme start="20220308170000 +0800" stop="20220308173000 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">蝙蝠俠-智勇悍將第1季-第11集</title>
+    <desc lang="zh">蝙蝠俠找藍甲蟲去處理即將撞上太空站的隕石，想看看這小鬼頭有沒有變成英雄的本事，但是藍甲蟲無法控制甲蟲裝，結果兩人雙雙被蟲洞吸進去，來到銀河系另一邊.(n)</desc>
+  </programme>
+  <programme start="20220308173000 +0800" stop="20220308180000 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">蝙蝠俠-智勇悍將第1季-第12集</title>
+    <desc lang="zh">蝙蝠俠找藍甲蟲去處理即將撞上太空站的隕石，想看看這小鬼頭有沒有變成英雄的本事，但是藍甲蟲無法控制甲蟲裝，結果兩人雙雙被蟲洞吸進去，來到銀河系另一邊.(n)</desc>
+  </programme>
+  <programme start="20220308180000 +0800" stop="20220308183000 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">芝麻街第50季-第20集</title>
+    <desc lang="zh">使用「強烈的視覺風格、快速動作、幽默和音樂」以及動畫和真人短片來構造其內容.(n)</desc>
+  </programme>
+  <programme start="20220308183000 +0800" stop="20220308190000 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">芝麻街第50季-第21集</title>
+    <desc lang="zh">使用「強烈的視覺風格、快速動作、幽默和音樂」以及動畫和真人短片來構造其內容.(n)</desc>
+  </programme>
+  <programme start="20220308190000 +0800" stop="20220308203500 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">神奇獨角獸</title>
+    <desc lang="zh">神奇獨角獸.(n)</desc>
+  </programme>
+  <programme start="20220308203500 +0800" stop="20220308220000 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">少年悍將GO！看怪物奇兵</title>
+    <desc lang="zh">少年悍將這次遇上曾企圖綁架麥克喬丹和樂一通隊的外星惡棍來訪.(n)</desc>
+  </programme>
+  <programme start="20220308220000 +0800" stop="20220308235500 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">留住最後一支舞</title>
+    <desc lang="zh">這部專門為年輕觀眾打造的電影，不只有音樂和舞蹈等娛樂元素，更觸及種族間的衝突及青少年成長的嚴肅議題，在美國上映時，即以小兵立大功之姿奪得票房第一名.(n)</desc>
+  </programme>
+  <programme start="20220308235500 +0800" stop="20220308235500 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">芝麻街第50季-第20集</title>
+    <desc lang="zh">使用「強烈的視覺風格、快速動作、幽默和音樂」以及動畫和真人短片來構造其內容.(n)</desc>
+  </programme>
+  <programme start="20220308235500 +0800" stop="20220309002500 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">芝麻街第50季-第20集</title>
+    <desc lang="zh">使用「強烈的視覺風格、快速動作、幽默和音樂」以及動畫和真人短片來構造其內容.(n)</desc>
+  </programme>
+  <programme start="20220309002500 +0800" stop="20220309005500 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">芝麻街第50季-第21集</title>
+    <desc lang="zh">使用「強烈的視覺風格、快速動作、幽默和音樂」以及動畫和真人短片來構造其內容.(n)</desc>
+  </programme>
+  <programme start="20220309005500 +0800" stop="20220309012500 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">芝麻街第45季-第4集</title>
+    <desc lang="zh">通過電視節目和人偶的力量來幫助世界各地的兒童實現其最大潛能。在鼓舞兒童主動進行學習的同時，節目保證了兒童在認知方面的基礎教學，即入學準備中有關理論、社交、身體和情感等方面的必要技巧.(n)</desc>
+  </programme>
+  <programme start="20220309012500 +0800" stop="20220309015500 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">芝麻街第45季-第5集</title>
+    <desc lang="zh">通過電視節目和人偶的力量來幫助世界各地的兒童實現其最大潛能。在鼓舞兒童主動進行學習的同時，節目保證了兒童在認知方面的基礎教學，即入學準備中有關理論、社交、身體和情感等方面的必要技巧.(n)</desc>
+  </programme>
+  <programme start="20220309015500 +0800" stop="20220309022500 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">芝麻街第46季-第30集</title>
+    <desc lang="zh">使用「強烈的視覺風格、快速動作、幽默和音樂」以及動畫和真人短片來構造其內容.(n)</desc>
+  </programme>
+  <programme start="20220309022500 +0800" stop="20220309025500 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">芝麻街第46季-第31集</title>
+    <desc lang="zh">使用「強烈的視覺風格、快速動作、幽默和音樂」以及動畫和真人短片來構造其內容.(n)</desc>
+  </programme>
+  <programme start="20220309025500 +0800" stop="20220309042500 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">鄉愛我心</title>
+    <desc lang="zh">努力奮鬥的鄉村歌手為了激發靈感而和納什維爾一名的詞曲創作者碰面。兩人合作寫歌的過程波折不斷，卻仍然造就出一首熱門歌曲……與一段真愛.(n)</desc>
+  </programme>
+  <programme start="20220309042500 +0800" stop="20220309045000 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">童話王國第3季-第4集</title>
+    <desc lang="zh">退休歌手德里幫助三隻小豬建造新家，一方面提防邪惡的大野狼進攻.(n)</desc>
+  </programme>
+  <programme start="20220309045000 +0800" stop="20220309052000 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">童話王國第3季-第5集</title>
+    <desc lang="zh">退休歌手德里幫助三隻小豬建造新家，一方面提防邪惡的大野狼進攻.(n)</desc>
+  </programme>
+  <programme start="20220309052000 +0800" stop="20220309070000 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">太陽也是一顆星星</title>
+    <desc lang="zh">一名牙買加出身的務實女子愛上一名追逐醫生夢的學生。兩人面臨的情況並不尋常，愛情路上關關難過關關過.(n)</desc>
+  </programme>
+  <programme start="20220309070000 +0800" stop="20220309072500 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">蝙蝠俠-智勇悍將第1季-第13集</title>
+    <desc lang="zh">蝙蝠俠找藍甲蟲去處理即將撞上太空站的隕石，想看看這小鬼頭有沒有變成英雄的本事，但是藍甲蟲無法控制甲蟲裝，結果兩人雙雙被蟲洞吸進去，來到銀河系另一邊.(n)</desc>
+  </programme>
+  <programme start="20220309072500 +0800" stop="20220309075000 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">蝙蝠俠-智勇悍將第1季-第14集</title>
+    <desc lang="zh">蝙蝠俠找藍甲蟲去處理即將撞上太空站的隕石，想看看這小鬼頭有沒有變成英雄的本事，但是藍甲蟲無法控制甲蟲裝，結果兩人雙雙被蟲洞吸進去，來到銀河系另一邊.(n)</desc>
+  </programme>
+  <programme start="20220309075000 +0800" stop="20220309081500 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">芝麻街第45季-第4集</title>
+    <desc lang="zh">通過電視節目和人偶的力量來幫助世界各地的兒童實現其最大潛能。在鼓舞兒童主動進行學習的同時，節目保證了兒童在認知方面的基礎教學，即入學準備中有關理論、社交、身體和情感等方面的必要技巧.(n)</desc>
+  </programme>
+  <programme start="20220309081500 +0800" stop="20220309084500 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">芝麻街第45季-第5集</title>
+    <desc lang="zh">通過電視節目和人偶的力量來幫助世界各地的兒童實現其最大潛能。在鼓舞兒童主動進行學習的同時，節目保證了兒童在認知方面的基礎教學，即入學準備中有關理論、社交、身體和情感等方面的必要技巧.(n)</desc>
+  </programme>
+  <programme start="20220309084500 +0800" stop="20220309091000 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">芝麻街第46季-第30集</title>
+    <desc lang="zh">使用「強烈的視覺風格、快速動作、幽默和音樂」以及動畫和真人短片來構造其內容.(n)</desc>
+  </programme>
+  <programme start="20220309091000 +0800" stop="20220309094000 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">芝麻街第46季-第31集</title>
+    <desc lang="zh">使用「強烈的視覺風格、快速動作、幽默和音樂」以及動畫和真人短片來構造其內容.(n)</desc>
+  </programme>
+  <programme start="20220309094000 +0800" stop="20220309100500 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">芝麻街第50季-第20集</title>
+    <desc lang="zh">使用「強烈的視覺風格、快速動作、幽默和音樂」以及動畫和真人短片來構造其內容.(n)</desc>
+  </programme>
+  <programme start="20220309100500 +0800" stop="20220309103500 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">芝麻街第50季-第21集</title>
+    <desc lang="zh">使用「強烈的視覺風格、快速動作、幽默和音樂」以及動畫和真人短片來構造其內容.(n)</desc>
+  </programme>
+  <programme start="20220309103500 +0800" stop="20220309121000 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">神奇獨角獸</title>
+    <desc lang="zh">神奇獨角獸.(n)</desc>
+  </programme>
+  <programme start="20220309121000 +0800" stop="20220309133500 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">超級狐狸先生</title>
+    <desc lang="zh">這齣由韋斯安德森執導並榮獲金獎提名的動畫電影改編自羅爾德達爾的經典童書，劇情描寫一隻曾以偷竊家禽為生的狐狸難以抵擋再次犯案的誘惑.(n)</desc>
+  </programme>
+  <programme start="20220309133500 +0800" stop="20220309150000 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">少年悍將GO！看怪物奇兵</title>
+    <desc lang="zh">少年悍將這次遇上曾企圖綁架麥克喬丹和樂一通隊的外星惡棍來訪.(n)</desc>
+  </programme>
+  <programme start="20220309150000 +0800" stop="20220309153000 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">芝麻街第45季-第6集</title>
+    <desc lang="zh">通過電視節目和人偶的力量來幫助世界各地的兒童實現其最大潛能。在鼓舞兒童主動進行學習的同時，節目保證了兒童在認知方面的基礎教學，即入學準備中有關理論、社交、身體和情感等方面的必要技巧.(n)</desc>
+  </programme>
+  <programme start="20220309153000 +0800" stop="20220309160000 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">芝麻街第45季-第7集</title>
+    <desc lang="zh">通過電視節目和人偶的力量來幫助世界各地的兒童實現其最大潛能。在鼓舞兒童主動進行學習的同時，節目保證了兒童在認知方面的基礎教學，即入學準備中有關理論、社交、身體和情感等方面的必要技巧.(n)</desc>
+  </programme>
+  <programme start="20220309160000 +0800" stop="20220309163000 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">芝麻街第46季-第32集</title>
+    <desc lang="zh">使用「強烈的視覺風格、快速動作、幽默和音樂」以及動畫和真人短片來構造其內容.(n)</desc>
+  </programme>
+  <programme start="20220309163000 +0800" stop="20220309170000 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">芝麻街第46季-第33集</title>
+    <desc lang="zh">使用「強烈的視覺風格、快速動作、幽默和音樂」以及動畫和真人短片來構造其內容.(n)</desc>
+  </programme>
+  <programme start="20220309170000 +0800" stop="20220309173000 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">蝙蝠俠-智勇悍將第1季-第13集</title>
+    <desc lang="zh">蝙蝠俠找藍甲蟲去處理即將撞上太空站的隕石，想看看這小鬼頭有沒有變成英雄的本事，但是藍甲蟲無法控制甲蟲裝，結果兩人雙雙被蟲洞吸進去，來到銀河系另一邊.(n)</desc>
+  </programme>
+  <programme start="20220309173000 +0800" stop="20220309180000 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">蝙蝠俠-智勇悍將第1季-第14集</title>
+    <desc lang="zh">蝙蝠俠找藍甲蟲去處理即將撞上太空站的隕石，想看看這小鬼頭有沒有變成英雄的本事，但是藍甲蟲無法控制甲蟲裝，結果兩人雙雙被蟲洞吸進去，來到銀河系另一邊.(n)</desc>
+  </programme>
+  <programme start="20220309180000 +0800" stop="20220309183000 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">芝麻街第50季-第22集</title>
+    <desc lang="zh">使用「強烈的視覺風格、快速動作、幽默和音樂」以及動畫和真人短片來構造其內容.(n)</desc>
+  </programme>
+  <programme start="20220309183000 +0800" stop="20220309190000 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">芝麻街第50季-第23集</title>
+    <desc lang="zh">使用「強烈的視覺風格、快速動作、幽默和音樂」以及動畫和真人短片來構造其內容.(n)</desc>
+  </programme>
+  <programme start="20220309190000 +0800" stop="20220309204500 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">樂高蝙蝠俠電影</title>
+    <desc lang="zh">高譚市正醞釀著巨大的改變，蝙蝠俠若想拯救高譚市免於落入邪惡的小丑之手，就必須放棄獨立行動的堅持，試著與其他人合作.(n)</desc>
+  </programme>
+  <programme start="20220309204500 +0800" stop="20220309222500 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">太陽也是一顆星星</title>
+    <desc lang="zh">一名牙買加出身的務實女子愛上一名追逐醫生夢的學生。兩人面臨的情況並不尋常，愛情路上關關難過關關過.(n)</desc>
+  </programme>
+  <programme start="20220309222500 +0800" stop="20220309222500 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">馬利與我</title>
+    <desc lang="zh">一名專欄作家和妻子為了嘗試當父母的滋味而領養了完全不受控制的拉不拉多犬馬利，沒想到馬利卻成為這個家不可或缺的一份子.(n)</desc>
+  </programme>
+  <programme start="20220309222500 +0800" stop="20220310002000 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">馬利與我</title>
+    <desc lang="zh">一名專欄作家和妻子為了嘗試當父母的滋味而領養了完全不受控制的拉不拉多犬馬利，沒想到馬利卻成為這個家不可或缺的一份子.(n)</desc>
+  </programme>
+  <programme start="20220310002000 +0800" stop="20220310005000 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">芝麻街第50季-第22集</title>
+    <desc lang="zh">使用「強烈的視覺風格、快速動作、幽默和音樂」以及動畫和真人短片來構造其內容.(n)</desc>
+  </programme>
+  <programme start="20220310005000 +0800" stop="20220310012000 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">芝麻街第50季-第23集</title>
+    <desc lang="zh">使用「強烈的視覺風格、快速動作、幽默和音樂」以及動畫和真人短片來構造其內容.(n)</desc>
+  </programme>
+  <programme start="20220310012000 +0800" stop="20220310015000 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">芝麻街第45季-第6集</title>
+    <desc lang="zh">通過電視節目和人偶的力量來幫助世界各地的兒童實現其最大潛能。在鼓舞兒童主動進行學習的同時，節目保證了兒童在認知方面的基礎教學，即入學準備中有關理論、社交、身體和情感等方面的必要技巧.(n)</desc>
+  </programme>
+  <programme start="20220310015000 +0800" stop="20220310022000 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">芝麻街第45季-第7集</title>
+    <desc lang="zh">通過電視節目和人偶的力量來幫助世界各地的兒童實現其最大潛能。在鼓舞兒童主動進行學習的同時，節目保證了兒童在認知方面的基礎教學，即入學準備中有關理論、社交、身體和情感等方面的必要技巧.(n)</desc>
+  </programme>
+  <programme start="20220310022000 +0800" stop="20220310025000 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">芝麻街第46季-第32集</title>
+    <desc lang="zh">使用「強烈的視覺風格、快速動作、幽默和音樂」以及動畫和真人短片來構造其內容.(n)</desc>
+  </programme>
+  <programme start="20220310025000 +0800" stop="20220310032000 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">芝麻街第46季-第33集</title>
+    <desc lang="zh">使用「強烈的視覺風格、快速動作、幽默和音樂」以及動畫和真人短片來構造其內容.(n)</desc>
+  </programme>
+  <programme start="20220310032000 +0800" stop="20220310045500 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">家有兩個爸</title>
+    <desc lang="zh">本片描述一名個性溫和的電台高層人士，努力成為最佳繼父，但當兩個孩子放盪不羈的生父出現後，情況變得複雜許多，迫使他必須想辦法爭取孩子的認同.(n)</desc>
+  </programme>
+  <programme start="20220310045500 +0800" stop="20220310052000 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">童話王國第3季-第6集</title>
+    <desc lang="zh">退休歌手德里幫助三隻小豬建造新家，一方面提防邪惡的大野狼進攻.(n)</desc>
+  </programme>
+  <programme start="20220310052000 +0800" stop="20220310073000 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">她們</title>
+    <desc lang="zh">榮獲奧斯卡提名肯定的導演葛蕾塔格葳(《淑女鳥》)以其獨特的視野重新詮釋露意莎梅奧爾柯特的知名小說.(n)</desc>
+  </programme>
+  <programme start="20220310073000 +0800" stop="20220310075500 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">蝙蝠俠-智勇悍將第1季-第15集</title>
+    <desc lang="zh">蝙蝠俠找藍甲蟲去處理即將撞上太空站的隕石，想看看這小鬼頭有沒有變成英雄的本事，但是藍甲蟲無法控制甲蟲裝，結果兩人雙雙被蟲洞吸進去，來到銀河系另一邊.(n)</desc>
+  </programme>
+  <programme start="20220310075500 +0800" stop="20220310082000 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">蝙蝠俠-智勇悍將第1季-第16集</title>
+    <desc lang="zh">蝙蝠俠找藍甲蟲去處理即將撞上太空站的隕石，想看看這小鬼頭有沒有變成英雄的本事，但是藍甲蟲無法控制甲蟲裝，結果兩人雙雙被蟲洞吸進去，來到銀河系另一邊.(n)</desc>
+  </programme>
+  <programme start="20220310082000 +0800" stop="20220310085000 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">芝麻街第45季-第6集</title>
+    <desc lang="zh">通過電視節目和人偶的力量來幫助世界各地的兒童實現其最大潛能。在鼓舞兒童主動進行學習的同時，節目保證了兒童在認知方面的基礎教學，即入學準備中有關理論、社交、身體和情感等方面的必要技巧.(n)</desc>
+  </programme>
+  <programme start="20220310085000 +0800" stop="20220310092000 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">芝麻街第45季-第7集</title>
+    <desc lang="zh">通過電視節目和人偶的力量來幫助世界各地的兒童實現其最大潛能。在鼓舞兒童主動進行學習的同時，節目保證了兒童在認知方面的基礎教學，即入學準備中有關理論、社交、身體和情感等方面的必要技巧.(n)</desc>
+  </programme>
+  <programme start="20220310092000 +0800" stop="20220310095000 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">芝麻街第46季-第32集</title>
+    <desc lang="zh">使用「強烈的視覺風格、快速動作、幽默和音樂」以及動畫和真人短片來構造其內容.(n)</desc>
+  </programme>
+  <programme start="20220310095000 +0800" stop="20220310102000 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">芝麻街第46季-第33集</title>
+    <desc lang="zh">使用「強烈的視覺風格、快速動作、幽默和音樂」以及動畫和真人短片來構造其內容.(n)</desc>
+  </programme>
+  <programme start="20220310102000 +0800" stop="20220310105000 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">芝麻街第50季-第22集</title>
+    <desc lang="zh">使用「強烈的視覺風格、快速動作、幽默和音樂」以及動畫和真人短片來構造其內容.(n)</desc>
+  </programme>
+  <programme start="20220310105000 +0800" stop="20220310112000 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">芝麻街第50季-第23集</title>
+    <desc lang="zh">使用「強烈的視覺風格、快速動作、幽默和音樂」以及動畫和真人短片來構造其內容.(n)</desc>
+  </programme>
+  <programme start="20220310112000 +0800" stop="20220310130500 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">樂高蝙蝠俠電影</title>
+    <desc lang="zh">高譚市正醞釀著巨大的改變，蝙蝠俠若想拯救高譚市免於落入邪惡的小丑之手，就必須放棄獨立行動的堅持，試著與其他人合作.(n)</desc>
+  </programme>
+  <programme start="20220310130500 +0800" stop="20220310150000 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">馬利與我</title>
+    <desc lang="zh">一名專欄作家和妻子為了嘗試當父母的滋味而領養了完全不受控制的拉不拉多犬馬利，沒想到馬利卻成為這個家不可或缺的一份子.(n)</desc>
+  </programme>
+  <programme start="20220310150000 +0800" stop="20220310153000 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">芝麻街第45季-第8集</title>
+    <desc lang="zh">通過電視節目和人偶的力量來幫助世界各地的兒童實現其最大潛能。在鼓舞兒童主動進行學習的同時，節目保證了兒童在認知方面的基礎教學，即入學準備中有關理論、社交、身體和情感等方面的必要技巧.(n)</desc>
+  </programme>
+  <programme start="20220310153000 +0800" stop="20220310160000 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">芝麻街第45季-第9集</title>
+    <desc lang="zh">通過電視節目和人偶的力量來幫助世界各地的兒童實現其最大潛能。在鼓舞兒童主動進行學習的同時，節目保證了兒童在認知方面的基礎教學，即入學準備中有關理論、社交、身體和情感等方面的必要技巧.(n)</desc>
+  </programme>
+  <programme start="20220310160000 +0800" stop="20220310163000 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">芝麻街第46季-第34集</title>
+    <desc lang="zh">使用「強烈的視覺風格、快速動作、幽默和音樂」以及動畫和真人短片來構造其內容.(n)</desc>
+  </programme>
+  <programme start="20220310163000 +0800" stop="20220310170000 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">芝麻街第46季-第35集</title>
+    <desc lang="zh">使用「強烈的視覺風格、快速動作、幽默和音樂」以及動畫和真人短片來構造其內容.(n)</desc>
+  </programme>
+  <programme start="20220310170000 +0800" stop="20220310173000 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">蝙蝠俠-智勇悍將第1季-第15集</title>
+    <desc lang="zh">蝙蝠俠找藍甲蟲去處理即將撞上太空站的隕石，想看看這小鬼頭有沒有變成英雄的本事，但是藍甲蟲無法控制甲蟲裝，結果兩人雙雙被蟲洞吸進去，來到銀河系另一邊.(n)</desc>
+  </programme>
+  <programme start="20220310173000 +0800" stop="20220310180000 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">蝙蝠俠-智勇悍將第1季-第16集</title>
+    <desc lang="zh">蝙蝠俠找藍甲蟲去處理即將撞上太空站的隕石，想看看這小鬼頭有沒有變成英雄的本事，但是藍甲蟲無法控制甲蟲裝，結果兩人雙雙被蟲洞吸進去，來到銀河系另一邊.(n)</desc>
+  </programme>
+  <programme start="20220310180000 +0800" stop="20220310183000 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">芝麻街第50季-第24集</title>
+    <desc lang="zh">使用「強烈的視覺風格、快速動作、幽默和音樂」以及動畫和真人短片來構造其內容.(n)</desc>
+  </programme>
+  <programme start="20220310183000 +0800" stop="20220310190000 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">芝麻街第50季-第25集</title>
+    <desc lang="zh">使用「強烈的視覺風格、快速動作、幽默和音樂」以及動畫和真人短片來構造其內容.(n)</desc>
+  </programme>
+  <programme start="20220310190000 +0800" stop="20220310202500 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">海綿寶寶歷險記</title>
+    <desc lang="zh">海神的皇冠不見了，所有的矛頭都指向海綿巴布的老闆克拉布先生。雖然老闆沒有提拔他升官，他還是決定偕同好友派屈克上山下海找尋遺失的皇冠，為老闆洗刷冤屈.(n)</desc>
+  </programme>
+  <programme start="20220310202500 +0800" stop="20220310220000 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">家有兩個爸</title>
+    <desc lang="zh">本片描述一名個性溫和的電台高層人士，努力成為最佳繼父，但當兩個孩子放盪不羈的生父出現後，情況變得複雜許多，迫使他必須想辦法爭取孩子的認同.(n)</desc>
+  </programme>
+  <programme start="20220310220000 +0800" stop="20220310233500 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">鼠來寶-鼠喉大作讚</title>
+    <desc lang="zh">由於一連串的誤會，艾文、賽門與喜多以為戴夫打算在向新女友求婚後丟下他們，他們只有三天的時間去阻止他求婚.(n)</desc>
+  </programme>
+  <programme start="20220310233500 +0800" stop="20220310233500 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">芝麻街第50季-第24集</title>
+    <desc lang="zh">使用「強烈的視覺風格、快速動作、幽默和音樂」以及動畫和真人短片來構造其內容.(n)</desc>
+  </programme>
+  <programme start="20220310233500 +0800" stop="20220311000500 +0800" channel="HBO 溫馨家庭">
+    <title lang="zh">芝麻街第50季-第24集</title>
+    <desc lang="zh">使用「強烈的視覺風格、快速動作、幽默和音樂」以及動畫和真人短片來構造其內容.(n)</desc>
+  </programme>
   <programme start="20220303000000 +0800" stop="20220303021000 +0800" channel="好萊塢電影台">
     <title lang="zh">深海越獄</title>
     <desc lang="zh">中情局特務惠勒醒來發現自己被囚禁在核潛艇內—CIA深海的黑獄。在不知孰敵孰友的情況下，惠勒能逃出艦艇證明自己的清白嗎.(n)</desc>
@@ -7724,13 +9240,13 @@
     <title lang="zh">樂活新觀點</title>
     <desc lang="zh">10位當代設計名人，解析未來生活新觀點 樂活是ㄧ種追求時尚的生活態度 談樂活與生活時尚的流行設計風潮，當然不可錯過工業設計專家的觀點.(n)</desc>
   </programme>
-  <programme start="20220303150000 +0800" stop="20220303185500 +0800" channel="好萊塢電影台">
+  <programme start="20220303150000 +0800" stop="20220303170000 +0800" channel="好萊塢電影台">
     <title lang="zh">2012地球末日</title>
     <desc lang="zh">太陽系中的超王星即將引爆，地球面臨毀滅危機，凱文博士認為唯有核子雲屏，才能保護地球。為此，他與中國的君宜教授以及俄羅斯的沙疏斯基教授不斷計算規劃。為了拯救地球上所有生物，凱文博士決定與兩名博士親自啟程至外太空發射核彈。面對這項艱鉅的任務，他知道眼前還有許多未知的危機與阻礙，正等待著他去排解….(n)</desc>
   </programme>
-  <programme start="20220303185500 +0800" stop="20220303211500 +0800" channel="好萊塢電影台">
-    <title lang="zh">解機遊戲</title>
-    <desc lang="zh">二戰期間，德軍研發出無法破解的通訊加密裝置「恩尼格瑪」，可將所有機密轉換成亂碼發送出去，全世界如臨大敵…。天才數學家艾倫圖靈(班奈迪克康柏拜區飾)奉命協助英國政府破解「恩尼格瑪」。他率領瓊克拉克(綺拉奈特莉飾)等百位頂尖解密專家，經過無數挫敗，終於破解了史上最難解的謎，及時拯救各國無數性命.(n)</desc>
+  <programme start="20220303170000 +0800" stop="20220303211500 +0800" channel="好萊塢電影台">
+    <title lang="zh">1944鐵甲連</title>
+    <desc lang="zh">對他們來說，這是一場不得不選邊的戰爭，眼前的敵人，有可能就是同胞...。本片由1944年愛沙尼亞東部戰線真實事件改編而成，內容描述二戰期間，德國與蘇聯兩大強國對立，身處戰場中的愛沙尼亞居民，被迫選邊加入戰爭，從坦能堡戰役到瑟爾韋半島被蘇聯軍隊征服期間，飽受戰火襲擊的愛沙尼亞居民，必須上戰場與立場迥異的同胞對峙，淪為德國與蘇聯戰爭下的犧牲品….(n)</desc>
   </programme>
   <programme start="20220303211500 +0800" stop="20220303231500 +0800" channel="好萊塢電影台">
     <title lang="zh">總統遊戲</title>
@@ -8148,13 +9664,13 @@
     <title lang="zh">記憶神探第3季-第10集</title>
     <desc lang="zh">本劇女主角凱莉 派琵蒙哥瑪莉 飾 是患有超憶症的紐約警察局偵探 無論是在調查學生環保活動的謀殺案 、 拳擊冠軍的鬥毆案還是學校的高考作弊醜聞 凱莉憑藉著他超強的記憶力 將難以捉摸的罪犯全都繩之以法.(n)</desc>
   </programme>
-  <programme start="20220303170000 +0800" stop="20220303190000 +0800" channel="AXN">
+  <programme start="20220303170000 +0800" stop="20220303180000 +0800" channel="AXN">
     <title lang="zh">小小極限體能王第1季-第4集</title>
     <desc lang="zh">參賽者分為年齡組（9+10、11+12、13+14）。每個年齡組都有四名參賽者，每集共有12名參賽者。男孩和女孩們相互競爭。在每個年齡組中進行五次不同的挑戰以確定其中的獲勝者，每集共有三名獲勝者，每個年齡組一名，可愛刺激程度不輸極限體能王.(n)</desc>
   </programme>
-  <programme start="20220303190000 +0800" stop="20220303200000 +0800" channel="AXN">
-    <title lang="zh">菜鳥警察大叔第3季-第9集</title>
-    <desc lang="zh">第三季回歸時,Nolan被當成嫌疑犯,面臨身為警務人員的最大挑戰,同時還得為真相而做出艱難選擇.(n)</desc>
+  <programme start="20220303180000 +0800" stop="20220303200000 +0800" channel="AXN">
+    <title lang="zh">警網急先鋒第11季-第3集</title>
+    <desc lang="zh">以紐約市為背景所創作的題材 描述歷代從事警察工作的雷根家族 個性迥異的他們將在案件中揭開家族的疑問 。 在新一季的首集 警察局長法蘭克和市議會議長雷吉娜 就因為反對警察暴行的抗議活動展開正面交鋒.(n)</desc>
   </programme>
   <programme start="20220303200000 +0800" stop="20220303210000 +0800" channel="AXN">
     <title lang="zh">記憶神探第3季-第11集</title>
@@ -9480,13 +10996,13 @@
     <title lang="zh">希特勒對戰東方-第2集</title>
     <desc lang="zh">1941年10月，納粹兵臨莫斯科城下。蘇聯首都趁著德軍進逼速度減緩，轉變成一座要塞。冬季漸漸到來，溫度降至華氏零下20度。德軍連冬季制服都還沒拿到。坦克車底下必須用火讓引擎融冰.(n)</desc>
   </programme>
-  <programme start="20220303170500 +0800" stop="20220303190000 +0800" channel="國家地理國際頻道">
+  <programme start="20220303170500 +0800" stop="20220303180000 +0800" channel="國家地理國際頻道">
     <title lang="zh">極限大挑戰-第5集</title>
     <desc lang="zh">國家地理頻道跟隨兩位大膽的澳洲冒險家，冒著生命危險進行南極之旅。雖然他們從未滑過雪，卻要試圖創下紀錄，在無人支持的情況下，從南極洲海岸前往南極，然後折返.(n)</desc>
   </programme>
-  <programme start="20220303190000 +0800" stop="20220303200000 +0800" channel="國家地理國際頻道">
-    <title lang="zh">逐日之旅第2季-第7集</title>
-    <desc lang="zh">本集節目中主持人要帶觀眾去一個文化快速轉變的地方，在這裡要是不用GPS，隨時可能會迷失在音樂和藝術之中.(n)</desc>
+  <programme start="20220303180000 +0800" stop="20220303200000 +0800" channel="國家地理國際頻道">
+    <title lang="zh">金牌馴狗師-狗主人訓練班-第1集</title>
+    <desc lang="zh">在狗狗心理諮商中心訓練師凱特的幫忙下，西薩讓一隻危險的比特鬥牛犬變成一隻身心平衡的狗狗，能在緊急情況中提供協助。一隻知名約克夏犬的飼主尋求西薩協助，在他們成家之前控制住牠狂亂的行為.(n)</desc>
   </programme>
   <programme start="20220303200000 +0800" stop="20220303210000 +0800" channel="國家地理國際頻道">
     <title lang="zh">納粹工程揭秘第6季-第5集</title>
@@ -10388,13 +11904,13 @@
     <title lang="zh">化外孤島求生錄第3季-第10集</title>
     <desc lang="zh">化外孤島求生錄第3季─邊緣生活.(n)</desc>
   </programme>
-  <programme start="20220303170000 +0800" stop="20220303190000 +0800" channel="國家地理頻道">
+  <programme start="20220303170000 +0800" stop="20220303180000 +0800" channel="國家地理頻道">
     <title lang="zh">超跑名車大改造第2季-第3集</title>
     <desc lang="zh">超跑名車大改造第2季─捷豹加速賽車.(n)</desc>
   </programme>
-  <programme start="20220303190000 +0800" stop="20220303200000 +0800" channel="國家地理頻道">
-    <title lang="zh">超級倉廚實戰</title>
-    <desc lang="zh">超級倉廚實戰─濱海灣金沙飯店廚神.(n)</desc>
+  <programme start="20220303180000 +0800" stop="20220303200000 +0800" channel="國家地理頻道">
+    <title lang="zh">荒野全能建造王第2季-第8集</title>
+    <desc lang="zh">荒野全能建造王第2季─釀酒木屋.(n)</desc>
   </programme>
   <programme start="20220303200000 +0800" stop="20220303210000 +0800" channel="國家地理頻道">
     <title lang="zh">尋找超級大魚第6季-第4集</title>
@@ -11224,13 +12740,13 @@
     <title lang="zh">金礦的賭注第12季-第2集</title>
     <desc lang="zh">金礦的賭注第12季:動力全開 Discovery頻道充滿雄心壯志的淘金客再度出擊，這次挑戰歷來最高的風險。誰是成王？誰是敗寇？這一季風雲變色：新礦工、新礦區、新機具，與新的採金方法。但大風險能否帶來更大的收益？全新一季《金礦的賭注》將帶來曲折離奇、高潮迭起的劇情.(n)</desc>
   </programme>
-  <programme start="20220303170000 +0800" stop="20220303190000 +0800" channel="Discovery">
+  <programme start="20220303170000 +0800" stop="20220303180000 +0800" channel="Discovery">
     <title lang="zh">機器大進擊第2季-第4集</title>
     <desc lang="zh">機器大進擊第2季:超級重機 本集介紹競爭激烈的超級重機賽道上，究竟是什麼秘密武器，讓這台能急速奔馳，又迅速煞車換檔的摩托車成為場上叱吒風雲的超級重機.(n)</desc>
   </programme>
-  <programme start="20220303190000 +0800" stop="20220303193000 +0800" channel="Discovery">
-    <title lang="zh">硬漢當鋪第11季-第9集</title>
-    <desc lang="zh">硬漢當鋪第11季:第9集 萊斯規定塞司要在一星期內賣掉八百多張運動卡片，不然就要塞司自己出賣下球卡的錢。經過一番努力後，塞司終於找到願意買球卡的人，而且還賺了不少錢.(n)</desc>
+  <programme start="20220303180000 +0800" stop="20220303193000 +0800" channel="Discovery">
+    <title lang="zh">澳洲漁業英雄第1季-第4集</title>
+    <desc lang="zh">澳洲漁業英雄第1季:南澳大利亞 安德魯到南澳大利亞，跟當地漁夫一起上船下海，體驗辛苦的討海生活.(n)</desc>
   </programme>
   <programme start="20220303193000 +0800" stop="20220303200000 +0800" channel="Discovery">
     <title lang="zh">行李戰爭第3季-第1集</title>
@@ -12104,13 +13620,13 @@
     <title lang="zh">摩根費里曼之穿越蟲洞第6季-第4集</title>
     <desc lang="zh">摩根費里曼之穿越蟲洞第6季:時光倒流.本集討論時間的真面目、未來可以影響過去的現象、歷史能否改變，以及用時光機和蟲洞回到過去的可能.(n)</desc>
   </programme>
-  <programme start="20220303165000 +0800" stop="20220303183000 +0800" channel="Discovery 科學頻道">
+  <programme start="20220303165000 +0800" stop="20220303174000 +0800" channel="Discovery 科學頻道">
     <title lang="zh">層層透視古文明第4季-第21集</title>
     <desc lang="zh">層層透視古文明第4季:庫須王朝.庫須文明是源自非洲的古代黑人文明，在蘇丹的麥羅埃建了超過二百座神似埃及金字塔的古老建築物。專家研究建築結構並製作模型實驗後，發現庫須人應該是借用了埃及的汲水器技術，才建造出造型陡峭的金字塔當成陵墓。此外，觀察庫須金字塔墓室裡的壁畫後，歷史學家研判庫須人曾經被埃及入侵，被迫進貢黃金。阿布辛貝神廟中的壁畫也說明，埃及人過去對庫須帶有敵意。不過，專家透過樹木樣本和碑文研判，庫須很可能趁著埃及國力衰弱時入侵，建立統治埃及的黑法老王朝。即便如此，考古證據顯示庫須王朝隨後被亞述人與埃及人重挫，輾轉到了麥羅埃建立首都及金字塔，最後受到入侵的羅馬人同化並改信基督宗教。如今，只剩下被盜墓者摧毀的金字塔提醒世人庫須王國的昔日榮景.(n)</desc>
   </programme>
-  <programme start="20220303183000 +0800" stop="20220303192000 +0800" channel="Discovery 科學頻道">
-    <title lang="zh">層層透視古文明第5季-第1集</title>
-    <desc lang="zh">層層透視古文明第5季:萬神殿.結合科學調查與CGI動畫，揭開指標性建築和古蹟不為人知的秘密。節目透視古代和現代的建築，探索它們建造的方式、對社會的意義，也認識人們曾經如何使用這些建築，遭廢棄後又被重新發現，以及接著的復原工作。每一集節目透視古代建造的指標性巨型結構，帶來全新證據揭露古代文明背後的神話和奧秘.(n)</desc>
+  <programme start="20220303174000 +0800" stop="20220303192000 +0800" channel="Discovery 科學頻道">
+    <title lang="zh">登月機具-第6集</title>
+    <desc lang="zh">登月機具:登月車.半世紀前人類首次踏上月球表面，至今，登陸月球仍是一件難如登天、所費不貲的精密高科技旅程。當時，短短八年間，美國動用了40萬工程師一起完成這個看似不可能的任務，登月並安全返回地球。但是，除了成為家喻戶曉的阿姆斯壯以外，是誰創造了這些完美的登月機具？讓人類登月的幕後英雄，不該被遺忘；這些非凡的工程奇蹟與故事，和這趟旅程一樣卓越，應永遠值得受人尊敬.(n)</desc>
   </programme>
   <programme start="20220303192000 +0800" stop="20220303194400 +0800" channel="Discovery 科學頻道">
     <title lang="zh">生活科技大解密第6季-第5集</title>
@@ -13240,17 +14756,17 @@
     <title lang="zh">速度當道-第6集</title>
     <desc lang="zh">速度當道:先破壞再重建.諾亞開設經典車工坊，讓車子好看，對他們來說是一定要的，讓車子性能好，則是他們的專長。在經典車工坊這兒，有遠見的工匠大師團隊，經手各式各樣的車，改造成為量身特製的高性能勁車，你要贏得車展就另請高明，若你要贏得車展又能衝第一，來找他們就對了。今天要處理雙倍的62年雪佛蘭，一輛紅色小科維特重生，帶著現代的大變身。還有一輛古董級寶艾，成為終極的海灘兜風車.(n)</desc>
   </programme>
-  <programme start="20220303165000 +0800" stop="20220303183000 +0800" channel="DMAX">
+  <programme start="20220303165000 +0800" stop="20220303174000 +0800" channel="DMAX">
     <title lang="zh">柴油車卡好-第13集</title>
     <desc lang="zh">柴油車卡好:羅禮士上門來上集.柴油戴夫和大塊柴共同開設經營柴油賣家，這是全球最大的柴油車網路市場，兩人和旗下員工打造全球僅見，最大最狠的柴油貨卡。他們尋找貨卡購買，修理後轉賣獲利，有時候還直接在網站上舉辦活動，抽獎大放送。柴油貨卡遠不只是貨卡，而是生活風格，吃飯、睡覺和呼吸都離不開它。本集要購入退役的消防車，改造成新改良的火花車業拖吊車。另外大明星羅禮士拍廣告需要特製貨卡，前來選購，而頭號粉絲紅鬍子不為人知的過去，也跟著浮出檯面.(n)</desc>
   </programme>
-  <programme start="20220303183000 +0800" stop="20220303185500 +0800" channel="DMAX">
+  <programme start="20220303174000 +0800" stop="20220303183000 +0800" channel="DMAX">
+    <title lang="zh">街頭飆車族第5季-第14集</title>
+    <desc lang="zh">街頭飆車族第5季:頂撞與衝突.排名賽的競爭越來越激烈，車手之間的衝突也逐漸升高。法姆塔克跟艾申去找人賽車，卻碰到意外強勁的對手.(n)</desc>
+  </programme>
+  <programme start="20220303183000 +0800" stop="20220303192000 +0800" channel="DMAX">
     <title lang="zh">貴氣上路-第13集</title>
     <desc lang="zh">貴氣上路:第13集.本節目每集一小時將上天下海，尋找世界上最昂貴的汽車、飛機、船隻、機車、休旅車…還有更多驚喜.。只要是能跑、漂浮、能飛，全都榜上有名.(n)</desc>
-  </programme>
-  <programme start="20220303185500 +0800" stop="20220303192000 +0800" channel="DMAX">
-    <title lang="zh">改車特攻隊第3季-第11集</title>
-    <desc lang="zh">改車特攻隊第3季:輝煌的過往.美國各地，應該要很吸睛的寶貝專案車，卻在車庫裡積灰塵，這一切到今天為止。改車特攻隊將將占領府上的車庫，教導你如何翻新經典車，重新上路。本週要處理的1956年汽油級直線加速賽車，緬懷直線加速的黃金年代，車手把量產車輕量化，創造出威猛的競技機具。車主鮑伯從特製車架開始，但後來面臨家庭問題，這輛汽油級直線加速賽車，沒多久就沒油了，而現在要努力讓這輛車回到歸宿。車主鮑伯的太太荻妮絲替他報名，因為自己罹癌，先生放下需要翻新的夢想車，專心照顧老婆，而本節目進場，要幫助這位好丈夫，圓一個自己的夢想.(n)</desc>
   </programme>
   <programme start="20220303192000 +0800" stop="20220303201000 +0800" channel="DMAX">
     <title lang="zh">稱霸廢鐵場第5季-第7集</title>
@@ -14408,17 +15924,17 @@
     <title lang="zh">無窮潛力第2季-第16集</title>
     <desc lang="zh">無窮潛力第2季:夕陽美景-本集節目中，主持人潔絲敏要為屋主潔美跟明蒂改造她們的舊房子。她們的廚房僅能供一人通行，屋內天花板高度不一，還有早已閒置的前廳，都是潔絲敏要改造的目標。但是最重要的問題，在於她們的房子毫無特色。因此潔絲敏將她們對大自然的熱愛，融入她們平時的活動空間.(n)</desc>
   </programme>
-  <programme start="20220303170000 +0800" stop="20220303183000 +0800" channel="TLC旅遊生活頻道">
+  <programme start="20220303170000 +0800" stop="20220303180000 +0800" channel="TLC旅遊生活頻道">
     <title lang="zh">香黛兒的異國冤家第2季-第6集</title>
     <desc lang="zh">香黛兒的異國冤家第2季:壞事大嘴巴-妮可帶亞歷漢卓去見姐妹淘，希望大家能對他留下好印象，沒想到卡瑞瑪說出他已婚的事，讓妮可超級不爽，開始懷疑亞歷漢卓這趟多明尼加之旅是否明智。香黛兒的家人和安琪妮特及安琪妮特的朋友見面，安琪妮特在大家面前說出羅亞爾在網路上搜尋前女友的事，並質問羅亞爾，問他為何不信任她、為何說她跟別人有一腿？羅亞爾在弟弟妹妹的慫恿下離去，並跟製作團隊發生衝突.(n)</desc>
   </programme>
-  <programme start="20220303183000 +0800" stop="20220303190000 +0800" channel="TLC旅遊生活頻道">
+  <programme start="20220303180000 +0800" stop="20220303183000 +0800" channel="TLC旅遊生活頻道">
+    <title lang="zh">農村女孩料理趣第7季-第4集</title>
+    <desc lang="zh">農村女孩料理趣第7季:野餐不馬虎-在本集節目中，葉茉莉要做多汁露西早餐堡、香脆煎煙燻火腿三明治、炸豆餅蝴蝶麵和繽紛紮染餅乾.(n)</desc>
+  </programme>
+  <programme start="20220303183000 +0800" stop="20220303193000 +0800" channel="TLC旅遊生活頻道">
     <title lang="zh">農村女孩料理趣第7季-第5集</title>
     <desc lang="zh">農村女孩料理趣第7季:乳酪火鍋派對-這次茉莉為了跟好友到雪地健行，準備了熱騰騰的牛肉蕪菁甘藍酥皮餃與開心果白巧克力熱飲當點心，晚餐則準備了暖呼呼的乳酪火鍋派對，與好友共度美好冬日時光.(n)</desc>
-  </programme>
-  <programme start="20220303190000 +0800" stop="20220303193000 +0800" channel="TLC旅遊生活頻道">
-    <title lang="zh">亞洲好住家第3季-第1集</title>
-    <desc lang="zh">亞洲好住家第3季:馬德望-夏儂西勒的新工作要搬到柬埔寨馬德望的北部，她是否能放下習慣的金邊繁忙環境，並展開一段悠閒的鄉村生活.(n)</desc>
   </programme>
   <programme start="20220303193000 +0800" stop="20220303200000 +0800" channel="TLC旅遊生活頻道">
     <title lang="zh">亞洲好住家第3季-第2集</title>
@@ -15456,13 +16972,13 @@
     <title lang="zh">動物百分百-第5集</title>
     <desc lang="zh">動物百分百:鱷魚.(n)</desc>
   </programme>
-  <programme start="20220303170000 +0800" stop="20220303190000 +0800" channel="動物星球">
+  <programme start="20220303170000 +0800" stop="20220303180000 +0800" channel="動物星球">
     <title lang="zh">獅子與鬣狗</title>
     <desc lang="zh">獅子與鬣狗.(n)</desc>
   </programme>
-  <programme start="20220303190000 +0800" stop="20220303200000 +0800" channel="動物星球">
-    <title lang="zh">北美大地-第2集</title>
-    <desc lang="zh">北美大地:艱苦家園.(n)</desc>
+  <programme start="20220303180000 +0800" stop="20220303200000 +0800" channel="動物星球">
+    <title lang="zh">大戰狐猴島-第1集</title>
+    <desc lang="zh">大戰狐猴島:第1集.家人不和、家族內戰、戀人幽會，這可不是羅密歐與茱麗葉，而是一群環尾狐猴在「狐猴島」上過著非比尋常的生活。一起來認識馬達加斯加伯漢斯保護區的狐猴，這些靈長類動物有嚴格的社會階級地位劃分，在氣候變遷下，展現出適應極端環境的過人求生能力.(n)</desc>
   </programme>
   <programme start="20220303200000 +0800" stop="20220303210000 +0800" channel="動物星球">
     <title lang="zh">生命泉源湄公河-第1集</title>
@@ -16216,13 +17732,13 @@
     <title lang="zh">瞞天過海-十三王牌</title>
     <desc lang="zh">出神入化的騙術與竊技再次登場，丹尼歐遜（喬治克隆尼 飾）率領一幫騙徒夥伴出馬討回面子，成員已暴增至13人，使壞、鬥智更上一層樓！ 這次他們要挑戰搶劫最高難度、最具野心的賭場。當無情的賭場老闆威力班克（艾爾帕西諾 飾）出賣詐欺歐遜的合夥人之一的魯本提史科夫（艾略特高德 飾），這個面子不討回來怎麼行！歐遜再度出馬號召夥伴們，出發到該賭場盡情使出搶騙高招，還以顏色.(n)</desc>
   </programme>
-  <programme start="20220303133500 +0800" stop="20220303190000 +0800" channel="東森洋片台">
+  <programme start="20220303133500 +0800" stop="20220303162000 +0800" channel="東森洋片台">
     <title lang="zh">傳奇42號</title>
     <desc lang="zh">全片由真人真事改編，棒球選手傑基羅賓森在美國職棒布魯克林道奇隊總經理布蘭奇瑞基(哈里遜福特飾)的堅持之下，被簽進美國大聯盟，成為美國職棒大聯盟史上第一位非裔美國人球員，黑白球員分隔的棒球政策將永遠改寫.(n)</desc>
   </programme>
-  <programme start="20220303190000 +0800" stop="20220303212500 +0800" channel="東森洋片台">
-    <title lang="zh">醉後的浪漫</title>
-    <desc lang="zh">宰勳（金來沅 飾）與未婚妻分手之後，夜夜買醉、借酒澆愁，一日宿醉醒來後發現前晚與某人通話了兩個小時，而通話對象竟是昨日新來的女同事善英（孔曉振 飾）；更尷尬的是，宰勳前一晚不小心撞見善英與男友的分手場面！從此兩人之間總是有著微妙的緊張氣氛，但隨著對彼此越來越了解，愛情也悄悄在他們心中萌芽.(n)</desc>
+  <programme start="20220303162000 +0800" stop="20220303212500 +0800" channel="東森洋片台">
+    <title lang="zh">移動城市-致命引擎</title>
+    <desc lang="zh">大災難摧毀了人類文明，數千年後，人類終於適應並找到自己的生存之道。裝載巨輪的移動城市橫行地球，無情併吞彼此，弱肉強食。提姆（羅伯特席安 飾）移動城倫敦的見習生，自從遇見危險的逃犯海絲特（赫拉希爾馬 飾），他就一直為生存而戰。截然不同的兩個人，本來不會有任何交集，沒想到竟然結為盟友，共同改變人類的未來.(n)</desc>
   </programme>
   <programme start="20220303212500 +0800" stop="20220303212500 +0800" channel="東森洋片台">
     <title lang="zh">白宮末日</title>
@@ -16592,16 +18108,16 @@
     <title lang="zh">至尊無上</title>
     <desc lang="zh">三人回香港後，宮木太郎為了報復，雇香港黑幫人士追殺羅森。羅森得螃蟹相救逃過一劫，但是螃蟹的左手卻也因此受傷，影響了他賭技的發揮.(n)</desc>
   </programme>
-  <programme start="20220303155500 +0800" stop="20220303183000 +0800" channel="東森電影台">
+  <programme start="20220303155500 +0800" stop="20220303180000 +0800" channel="東森電影台">
     <title lang="zh">西遊記之仙履奇緣</title>
     <desc lang="zh">誰知至尊寶能拔出她手中的紫青寶劍，所以紫霞仙子則認定至尊寶才是她的情人，但此時月光寶盒卻不在紫（青）霞仙子手中，次日晚上，至尊寶回到旁觀觀音大士大戰孫悟空橋段，而月光寶盒則在其中，原來孫悟空是受不了唐僧太過碎碎唸，觀音菩薩後來也受不了唐三藏太過碎碎唸，而月光寶盒則在觀與孫兩人鬥法中甩來甩去，月光寶盒最後被至尊寶拿到手，卻陰錯陽差把唐三藏弄入另外一時空中，月光寶盒也隨之弄入另外一時空中.(n)</desc>
   </programme>
-  <programme start="20220303183000 +0800" stop="20220303190000 +0800" channel="東森電影台">
-    <title lang="zh">七龍珠超-第123集</title>
+  <programme start="20220303180000 +0800" stop="20220303183000 +0800" channel="東森電影台">
+    <title lang="zh">七龍珠超-第122集</title>
     <desc lang="zh">【七龍珠超】將以原作中悟空與魔人普烏激戰過後的地球為故事中心展開。其中，首度於2013年的「神與神」中登場的破壞神「比魯斯」也將於劇中登場.(n)</desc>
   </programme>
-  <programme start="20220303190000 +0800" stop="20220303193000 +0800" channel="東森電影台">
-    <title lang="zh">七龍珠超-第124集</title>
+  <programme start="20220303183000 +0800" stop="20220303193000 +0800" channel="東森電影台">
+    <title lang="zh">七龍珠超-第123集</title>
     <desc lang="zh">【七龍珠超】將以原作中悟空與魔人普烏激戰過後的地球為故事中心展開。其中，首度於2013年的「神與神」中登場的破壞神「比魯斯」也將於劇中登場.(n)</desc>
   </programme>
   <programme start="20220303193000 +0800" stop="20220303200000 +0800" channel="東森電影台">
@@ -17196,13 +18712,13 @@
     <title lang="zh">我們這一家-第179集</title>
     <desc lang="zh">好笑的橘子、神經大條的花媽、憨厚的花爸加上悶騷的柚子組成的我們這一家，每天都發生許多爆笑有趣的事情，充滿歡樂的生活化情節，貼近你我的生活，連主題曲都讓人有充滿希望的感覺，你一定要收看.(n)</desc>
   </programme>
-  <programme start="20220303173000 +0800" stop="20220303190000 +0800" channel="東森綜合台">
+  <programme start="20220303173000 +0800" stop="20220303180000 +0800" channel="東森綜合台">
     <title lang="zh">我們這一家-第180集</title>
     <desc lang="zh">好笑的橘子、神經大條的花媽、憨厚的花爸加上悶騷的柚子組成的我們這一家，每天都發生許多爆笑有趣的事情，充滿歡樂的生活化情節，貼近你我的生活，連主題曲都讓人有充滿希望的感覺，你一定要收看.(n)</desc>
   </programme>
-  <programme start="20220303190000 +0800" stop="20220303200000 +0800" channel="東森綜合台">
-    <title lang="zh">來自星星的你-第14集</title>
-    <desc lang="zh">1609年，天空出現了不明的圓形發光物體，乘之而來的是外貌與地球人沒有什麼差別的外星人，他們在地球短暫停留後便離去了，其中一名外星人卻因故無法與夥伴們同行而獨留於地球，若想要回到原居地必須再等待400多年。如今這名外星人仍保持著初來?到地球時的年輕英俊模樣，400多年來變換過各種姓名和身分，現在是名為都敏俊（金秀賢飾）的大學教授..(n)</desc>
+  <programme start="20220303180000 +0800" stop="20220303200000 +0800" channel="東森綜合台">
+    <title lang="zh">全民星攻略-第607集</title>
+    <desc lang="zh">由館長曾國城擔任知識把關者，考驗著每個來挑戰九宮格益智遊戲的藝人明星。想要攻略九宮格關卡，透過創意聯想、邏輯推理、理性分析，才有機會獲取智慧星幣，帶走夢幻大獎.(n)</desc>
   </programme>
   <programme start="20220303200000 +0800" stop="20220303210000 +0800" channel="東森綜合台">
     <title lang="zh">今晚開讚吧-第192集</title>
@@ -17984,12 +19500,12 @@
     <title lang="zh">奇皇后-第9集</title>
     <desc lang="zh">講述高麗人奇子敖的女兒(河智苑 飾)在家人被高麗貴族王暠殺害後，為了不被拖去當宮女而以男裝生活，為了向王暠報仇，隱瞞身份當了其手下，同時遇到了當時惡小輩頭領，過著放蕩生活的高麗王(朱鎮模 飾)。此後接受高麗王的密令監視被發配到大青島的元國皇太子，卻被卷入了危害高麗的元國陰謀之中…幾年周折之下救出皇太子妥懽(池昌旭 飾)，卻被識破女子之身以高麗貢女的身份被進獻給元廷，通過一系列宮廷權利鬥爭，從身份低微的掌茶宮女，最終成為元朝皇后的故事.(n)</desc>
   </programme>
-  <programme start="20220303170000 +0800" stop="20220303190000 +0800" channel="東森戲劇台">
+  <programme start="20220303170000 +0800" stop="20220303180000 +0800" channel="東森戲劇台">
     <title lang="zh">奇皇后-第10集</title>
     <desc lang="zh">講述高麗人奇子敖的女兒(河智苑 飾)在家人被高麗貴族王暠殺害後，為了不被拖去當宮女而以男裝生活，為了向王暠報仇，隱瞞身份當了其手下，同時遇到了當時惡小輩頭領，過著放蕩生活的高麗王(朱鎮模 飾)。此後接受高麗王的密令監視被發配到大青島的元國皇太子，卻被卷入了危害高麗的元國陰謀之中…幾年周折之下救出皇太子妥懽(池昌旭 飾)，卻被識破女子之身以高麗貢女的身份被進獻給元廷，通過一系列宮廷權利鬥爭，從身份低微的掌茶宮女，最終成為元朝皇后的故事.(n)</desc>
   </programme>
-  <programme start="20220303190000 +0800" stop="20220303200000 +0800" channel="東森戲劇台">
-    <title lang="zh">我的燦爛人生-第3集</title>
+  <programme start="20220303180000 +0800" stop="20220303200000 +0800" channel="東森戲劇台">
+    <title lang="zh">我的燦爛人生-第2集</title>
     <desc lang="zh">朴福熙出生不久後母親就去世，父親因替人作保欠債導致家道中落，她與同父異母的弟弟努力工作。與奇班車結婚後，發現丈夫關心的都是錢和女人，最後選擇離婚。某天，當她知道自己是富二代後，突然擁有非常需要的一切，人生面臨重大的改變..(n)</desc>
   </programme>
   <programme start="20220303200000 +0800" stop="20220303210000 +0800" channel="東森戲劇台">
@@ -18748,13 +20264,13 @@
     <title lang="zh">大明風華-第24集</title>
     <desc lang="zh">講述明朝初年，國家開創盛世，明宣宗朱瞻基的皇后孫若微輔佐登上皇位的丈夫為民眾和天下謀求幸福和安寧，她歷經五帝六朝，用自己的氣度和智慧數度救大明王朝於危難的故事.(n)</desc>
   </programme>
-  <programme start="20220303170000 +0800" stop="20220303190000 +0800" channel="八大第一台">
+  <programme start="20220303170000 +0800" stop="20220303180000 +0800" channel="八大第一台">
     <title lang="zh">生活家-第15集</title>
     <desc lang="zh">女主角邱冬娜自小在單親家庭長大的孩子，因受樂觀、自立的母親影響，凡事遇受挫折，均自我想辦法解決。因故誤打誤撞、因緣際會，進入人生導師與大學校友任職之會計師審計公司。任職過程中，雖常受母親（豬隊友）不時地闖禍、賠錢事故之影響，但也磨練出遇事不怕艱難，挺起精神向前衝。最終，闖出自己的一片天地.(n)</desc>
   </programme>
-  <programme start="20220303190000 +0800" stop="20220303200000 +0800" channel="八大第一台">
-    <title lang="zh">大明風華-第25集</title>
-    <desc lang="zh">講述明朝初年，國家開創盛世，明宣宗朱瞻基的皇后孫若微輔佐登上皇位的丈夫為民眾和天下謀求幸福和安寧，她歷經五帝六朝，用自己的氣度和智慧數度救大明王朝於危難的故事.(n)</desc>
+  <programme start="20220303180000 +0800" stop="20220303200000 +0800" channel="八大第一台">
+    <title lang="zh">1800八大民生新聞</title>
+    <desc lang="zh">拒絕羶色腥的社會新聞，沒有口水式的政治新聞，唯一適合全家的八大民生新聞.(n)</desc>
   </programme>
   <programme start="20220303200000 +0800" stop="20220303210000 +0800" channel="八大第一台">
     <title lang="zh">知否知否應是綠肥紅瘦-第1集</title>
@@ -19488,13 +21004,13 @@
     <title lang="zh">好運天天來-第31集</title>
     <desc lang="zh">好運天天來.(n)</desc>
   </programme>
-  <programme start="20220303160000 +0800" stop="20220303190000 +0800" channel="八大娛樂台">
+  <programme start="20220303160000 +0800" stop="20220303180000 +0800" channel="八大娛樂台">
     <title lang="zh">狀元堂草地阿伯-第488集</title>
     <desc lang="zh">狀元堂草地阿伯.(n)</desc>
   </programme>
-  <programme start="20220303190000 +0800" stop="20220303200000 +0800" channel="八大娛樂台">
-    <title lang="zh">遇見幸福-第35集</title>
-    <desc lang="zh">講述了甄開放（蔣欣）與司問渠（李光潔）「失婚女子」和「不婚主義者」愛情的建立，歐陽嚴嚴（郭京飛）家庭由男強女弱到雙方對等關係的轉變，蕭晴（劉孜）家庭探索解決「喪偶式婚姻」和孩子「精神留守」問題。四人生活家庭不同，但是在面對生活困頓時彼此溫暖，努力追尋幸福生活的人生故事.(n)</desc>
+  <programme start="20220303180000 +0800" stop="20220303200000 +0800" channel="八大娛樂台">
+    <title lang="zh">台灣第一等-第98集</title>
+    <desc lang="zh">讓主持人帶著大家探訪台灣各地奇人異士、挖掘各種鄉野奇譚，各位朋友準備好了嗎，讓我們出發尋找「台灣第一等」吧.(n)</desc>
   </programme>
   <programme start="20220303200000 +0800" stop="20220303210000 +0800" channel="八大娛樂台">
     <title lang="zh">遇見幸福-第36集</title>
@@ -20216,13 +21732,13 @@
     <title lang="zh">健康萬事通</title>
     <desc lang="zh">健康萬事通.(n)</desc>
   </programme>
-  <programme start="20220303160000 +0800" stop="20220303190000 +0800" channel="中天綜合台">
+  <programme start="20220303160000 +0800" stop="20220303180000 +0800" channel="中天綜合台">
     <title lang="zh">飢餓遊戲第8季-第6集</title>
     <desc lang="zh">接受挑戰書的藝人，開賽前12小時絕對禁食。今天的戰友是明天的敵人,永遠無法預知下一關將與誰合作闖關,唯有通過【飢餓遊戲】的考驗繼續獲得食物.(n)</desc>
   </programme>
-  <programme start="20220303190000 +0800" stop="20220303200000 +0800" channel="中天綜合台">
-    <title lang="zh">來去Check in第1季-第4集</title>
-    <desc lang="zh">節目主推「兩天一夜不嫌少、三天兩夜不嫌多，一生一定要住一次！」的旅宿，挖出最強CP值的飯店民宿，並附上一條龍的行程規劃，從住宿延伸至美食、玩樂，帶領觀眾走透透，住到哪、吃到哪，保證睡得好、五臟廟也照顧得好.(n)</desc>
+  <programme start="20220303180000 +0800" stop="20220303200000 +0800" channel="中天綜合台">
+    <title lang="zh">小明星大跟班第24季-第31集</title>
+    <desc lang="zh">台灣綜藝天王吳宗憲與女兒吳姍儒聯手主持中天綜合台十點線，首次搭檔主持激盪出台灣影視圈兩代關係大突破！Jacky Wu笑梗不斷Sandy Wu冷不防一箭，觀眾們小心接招囉.(n)</desc>
   </programme>
   <programme start="20220303200000 +0800" stop="20220303210000 +0800" channel="中天綜合台">
     <title lang="zh">綜藝大熱門-第200集</title>
